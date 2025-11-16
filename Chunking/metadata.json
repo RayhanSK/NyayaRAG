@@ -1,0 +1,2107 @@
+[
+  {
+    "id": "ipc-351",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "section": "351",
+    "confidence": 0.95
+  },
+  {
+    "id": "ipc-352",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "section": "352",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-cognizable-351/352",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-bailability-351/352",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-trial-351/352",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-351/352-1",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-351/352-2",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "doctrine-351/352-mensrea",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "precedent-351/352-1",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-351/352-2",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-351/352-3",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-1",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-2",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-3",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-4",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-5",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-6",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-7",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-8",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-9",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-10",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-11",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-12",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-13",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-14",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-15",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-16",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-17",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-18",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-19",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-351/352-20",
+    "type": "qa",
+    "topic": [
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "ipc-307",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "section": "307",
+    "confidence": 0.98
+  },
+  {
+    "id": "ipc-300",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "section": "300",
+    "confidence": 0.95
+  },
+  {
+    "id": "ipc-302",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "section": "302",
+    "confidence": 0.95
+  },
+  {
+    "id": "ipc-308",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "section": "308",
+    "confidence": 0.95
+  },
+  {
+    "id": "crpc-cognizable",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "crpc-bailability",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "crpc-trial",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-medical",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-corroboration",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-confessions",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "extra-definition",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "extra-distinction",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "extra-mensrea",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "precedent-dileep",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-jayanth",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-prakash",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-307-1",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-2",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-3",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-4",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-5",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-6",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-7",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-8",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-9",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-10",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-11",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-12",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-13",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-14",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-15",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-16",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-17",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-18",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "qa-307-19",
+    "type": "qa",
+    "topic": [
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.85
+  },
+  {
+    "id": "ipc-120b",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "section": "120B",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-cognizable-120B",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-bailability-120B",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-trial-120B",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-120B-1",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-120B-2",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "doctrine-120B-mensrea",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "precedent-120B-1",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-120B-2",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-120B-3",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-1",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-2",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-3",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-4",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-5",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-6",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-7",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-8",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-9",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-10",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-11",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-12",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-13",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-14",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-15",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-16",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-17",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-18",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-19",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-120B-20",
+    "type": "qa",
+    "topic": [
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "ipc-299",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "section": "299",
+    "confidence": 0.95
+  },
+  {
+    "id": "ipc-300",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "section": "300",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-cognizable-299/300",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-bailability-299/300",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-trial-299/300",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-299/300-1",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-299/300-2",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "doctrine-299/300-mensrea",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "precedent-299/300-1",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-299/300-2",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-299/300-3",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-1",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-2",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-3",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-4",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-5",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-6",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-7",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-8",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-9",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-10",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-11",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-12",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-13",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-14",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-15",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-16",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-17",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-18",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-19",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-299/300-20",
+    "type": "qa",
+    "topic": [
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "ipc-499",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "section": "499",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-cognizable-499",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-bailability-499",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-trial-499",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-499-1",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-499-2",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "doctrine-499-mensrea",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "precedent-499-1",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-499-2",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-499-3",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-1",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-2",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-3",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-4",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-5",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-6",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-7",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-8",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-9",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-10",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-11",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-12",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-13",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-14",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-15",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-16",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-17",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-18",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-19",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-499-20",
+    "type": "qa",
+    "topic": [
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "ipc-359",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "section": "359",
+    "confidence": 0.95
+  },
+  {
+    "id": "ipc-362",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "section": "362",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-cognizable-359-374",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-bailability-359-374",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-trial-359-374",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-359-374-1",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-359-374-2",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "doctrine-359-374-mensrea",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "precedent-359-374-1",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-359-374-2",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-359-374-3",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-1",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-2",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-3",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-4",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-5",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-6",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-7",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-8",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-9",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-10",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-11",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-12",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-13",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-14",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-15",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-16",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-17",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-18",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-19",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-359-374-20",
+    "type": "qa",
+    "topic": [
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "ipc-302",
+    "type": "statute",
+    "topic": [
+      "IPC",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "section": "302",
+    "confidence": 0.98
+  },
+  {
+    "id": "procedure-302",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "doctrine-302",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-cognizable-302",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-bailability-302",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "procedure-trial-302",
+    "type": "procedure",
+    "topic": [
+      "CrPC",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-302-1",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "evidence-302-2",
+    "type": "evidence",
+    "topic": [
+      "Evidence Act",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "doctrine-302-mensrea",
+    "type": "doctrinal",
+    "topic": [
+      "Doctrine",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.95
+  },
+  {
+    "id": "precedent-302-1",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-302-2",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "precedent-302-3",
+    "type": "precedent",
+    "topic": [
+      "Case Law",
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-1",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-2",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-3",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-4",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-5",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-6",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-7",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-8",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-9",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-10",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-11",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-12",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-13",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-14",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-15",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-16",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-17",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-18",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-19",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  },
+  {
+    "id": "qa-302-20",
+    "type": "qa",
+    "topic": [
+      "Murder"
+    ],
+    "source_file": "Murder.json",
+    "confidence": 0.9
+  }
+]

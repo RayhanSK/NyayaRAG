@@ -1,0 +1,17 @@
+langchain
+openai
+sentence-transformers
+transformers
+faiss-cpu
+pinecone-client
+fastapi
+uvicorn
+pandas
+scikit-learn
+nltk
+beautifulsoup4
+requests
+python-dotenv
+streamlit>=1.38.0
+python-dotenv>=1.0.0
+networkx

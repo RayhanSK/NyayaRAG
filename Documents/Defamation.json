@@ -1,0 +1,316 @@
+{
+  "dataset": "Defamation (Section 499 IPC)",
+  "jurisdiction": "India",
+  "language": "English",
+  "version": "1.1",
+  "created_at": "2025-10-04",
+  "updated_at": "2025-10-04",
+  "author": "Rayhan",
+  "chunks": [
+    {
+      "id": "ipc-499",
+      "type": "statute",
+      "title": "Section 499 IPC - Defamation",
+      "content": "Whoever, by words either spoken or intended to be read, or by signs or visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing that such imputation will harm, the reputation of such person, is said to defame that person.",
+      "summary": "Defines defamation and its scope.",
+      "keywords": ["defamation", "reputation", "section 499", "IPC", "harm", "statement", "publish"],
+      "confidence": 0.95,
+      "section": "499",
+      "topic": ["IPC", "Defamation"]
+    },
+    {
+      "id": "procedure-cognizable-499",
+      "type": "procedure",
+      "title": "Nature of Offence",
+      "content": "The offence under Section 499 IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval.",
+      "summary": "Cognizable offence: police can act without magistrate approval.",
+      "keywords": ["procedure", "cognizable", "IPC 499", "defamation", "FIR"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Defamation"]
+    },
+    {
+      "id": "procedure-bailability-499",
+      "type": "procedure",
+      "title": "Bailability",
+      "content": "Section 499 IPC is non-bailable. Bail is at the discretion of the court, not a right.",
+      "summary": "Non-bailable offence.",
+      "keywords": ["procedure", "bailability", "IPC 499", "defamation", "court"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Defamation"]
+    },
+    {
+      "id": "procedure-trial-499",
+      "type": "procedure",
+      "title": "Trial Jurisdiction",
+      "content": "Due to seriousness, Section 499 IPC offences are triable by the Court of Session.",
+      "summary": "Triable by Court of Session.",
+      "keywords": ["procedure", "trial", "court of session", "IPC 499", "defamation"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Defamation"]
+    },
+    {
+      "id": "evidence-499-1",
+      "type": "evidence",
+      "title": "Witness Testimony",
+      "content": "Eyewitness accounts and corroboration are essential to establish guilt.",
+      "summary": "Witness testimony with corroboration strengthens prosecution.",
+      "keywords": ["evidence", "witness", "corroboration", "defamation", "IPC 499"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Defamation"]
+    },
+    {
+      "id": "evidence-499-2",
+      "type": "evidence",
+      "title": "Medical & Forensic Evidence",
+      "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused.",
+      "summary": "Expert medical/forensic reports crucial for proof.",
+      "keywords": ["evidence", "medical", "forensic", "defamation", "IPC 499"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Defamation"]
+    },
+    {
+      "id": "doctrine-499-mensrea",
+      "type": "doctrinal",
+      "title": "Mens Rea & Actus Reus",
+      "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability.",
+      "summary": "Both mental and physical elements required.",
+      "keywords": ["doctrine", "mens rea", "actus reus", "intention", "defamation", "IPC 499"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Defamation"]
+    },
+    {
+      "id": "precedent-499-1",
+      "type": "precedent",
+      "case_name": "Subramanian Swamy v. Union of India",
+      "court": "Supreme Court",
+      "year": 2016,
+      "facts": "Challenge to criminal defamation.",
+      "issue": "Is Section 499 constitutional?",
+      "ratio": "Right to reputation part of Article 21.",
+      "holding": "Section 499 valid.",
+      "outcome": "Law upheld.",
+      "keywords": ["precedent", "case law", "IPC 499", "Article 21", "constitution", "Defamation"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Defamation"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-499-2",
+      "type": "precedent",
+      "case_name": "Ram Jethmalani v. Subramanian Swamy",
+      "court": "Delhi High Court",
+      "year": 2006,
+      "facts": "Defamatory statements in press.",
+      "issue": "Whether statements harm reputation.",
+      "ratio": "Public figures also protected.",
+      "holding": "Statements defamatory.",
+      "outcome": "Damages awarded.",
+      "keywords": ["precedent", "case law", "IPC 499", "press", "public figure", "Defamation"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Defamation"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-499-3",
+      "type": "precedent",
+      "case_name": "S. Khushboo v. Kanniammal",
+      "court": "Supreme Court",
+      "year": 2010,
+      "facts": "Actress made public statements on morality.",
+      "issue": "Do general statements attract defamation?",
+      "ratio": "Only specific harm to reputation counts.",
+      "holding": "Complaints quashed.",
+      "outcome": "Accused discharged.",
+      "keywords": ["precedent", "case law", "IPC 499", "morality", "public statements", "Defamation"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Defamation"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "qa-499-1",
+      "type": "qa",
+      "question": "What is the punishment under Section 499 IPC?",
+      "answer": "Punishment includes imprisonment and/or fine as provided by law.",
+      "keywords": ["Q&A", "IPC 499", "punishment", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-2",
+      "type": "qa",
+      "question": "Is Section 499 a bailable offence?",
+      "answer": "No, it is generally non-bailable.",
+      "keywords": ["Q&A", "IPC 499", "bailability", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-3",
+      "type": "qa",
+      "question": "Is Section 499 a cognizable offence?",
+      "answer": "Yes, police may register FIR and investigate without magistrate approval.",
+      "keywords": ["Q&A", "IPC 499", "cognizable", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-4",
+      "type": "qa",
+      "question": "What is defamation according to Section 499 IPC?",
+      "answer": "Defamation is making or publishing a false statement about someone, intending to harm their reputation.",
+      "keywords": ["Q&A", "IPC 499", "definition", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-5",
+      "type": "qa",
+      "question": "Is truth a defence to defamation under Section 499 IPC?",
+      "answer": "Truth is a defence if the statement is made for public good.",
+      "keywords": ["Q&A", "IPC 499", "truth", "defence", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-6",
+      "type": "qa",
+      "question": "Can opinions constitute defamation under Section 499 IPC?",
+      "answer": "Opinions may be defamatory if they are presented as facts and harm reputation.",
+      "keywords": ["Q&A", "IPC 499", "opinion", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-7",
+      "type": "qa",
+      "question": "What is the maximum punishment for defamation under Section 500 IPC?",
+      "answer": "Maximum punishment is two years’ imprisonment, or fine, or both.",
+      "keywords": ["Q&A", "IPC 500", "maximum punishment", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-8",
+      "type": "qa",
+      "question": "Is Section 499 IPC compoundable?",
+      "answer": "Yes, defamation is compoundable with court’s permission.",
+      "keywords": ["Q&A", "IPC 499", "compoundable", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-9",
+      "type": "qa",
+      "question": "Is defamation under Section 499 IPC triable by Magistrate?",
+      "answer": "Yes, usually tried by Magistrate courts.",
+      "keywords": ["Q&A", "IPC 499", "trial court", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-10",
+      "type": "qa",
+      "question": "Can group or companies file a defamation case under Section 499 IPC?",
+      "answer": "Yes, companies and groups can file defamation cases if their reputation is harmed.",
+      "keywords": ["Q&A", "IPC 499", "company", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-11",
+      "type": "qa",
+      "question": "Is intention required for conviction under Section 499 IPC?",
+      "answer": "Yes, intention to harm reputation is an essential element.",
+      "keywords": ["Q&A", "IPC 499", "intention", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-12",
+      "type": "qa",
+      "question": "Can a juvenile be prosecuted under Section 499 IPC?",
+      "answer": "Yes, but proceedings will be under the Juvenile Justice Act.",
+      "keywords": ["Q&A", "IPC 499", "juvenile", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-13",
+      "type": "qa",
+      "question": "Can a conviction for defamation under Section 499 IPC be appealed?",
+      "answer": "Yes, any conviction can be appealed in higher courts.",
+      "keywords": ["Q&A", "IPC 499", "appeal", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-14",
+      "type": "qa",
+      "question": "Does conviction under Section 499 IPC affect government employment?",
+      "answer": "Yes, conviction may affect eligibility for government service.",
+      "keywords": ["Q&A", "IPC 499", "government employment", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-15",
+      "type": "qa",
+      "question": "What are some common defences against defamation charges?",
+      "answer": "Truth, fair comment, privilege, and absence of malice are common defences.",
+      "keywords": ["Q&A", "IPC 499", "defences", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-16",
+      "type": "qa",
+      "question": "Is there any limitation period for filing a defamation case?",
+      "answer": "Generally, limitation period is three years from the date of offence.",
+      "keywords": ["Q&A", "IPC 499", "limitation period", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-17",
+      "type": "qa",
+      "question": "Is medical evidence required in defamation cases?",
+      "answer": "No, medical evidence is usually not needed unless physical harm is also alleged.",
+      "keywords": ["Q&A", "IPC 499", "medical evidence", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-18",
+      "type": "qa",
+      "question": "Can abetment of defamation be punished under IPC?",
+      "answer": "Yes, abetment is punishable under Section 107/108 IPC.",
+      "keywords": ["Q&A", "IPC 499", "abetment", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-19",
+      "type": "qa",
+      "question": "Can apology prevent conviction in defamation cases?",
+      "answer": "Tendering an apology may mitigate punishment but does not always prevent conviction.",
+      "keywords": ["Q&A", "IPC 499", "apology", "defamation"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    },
+    {
+      "id": "qa-499-20",
+      "type": "qa",
+      "question": "What are recent trends in defamation cases under IPC?",
+      "answer": "Increased focus on online/social media defamation and balancing freedom of speech with reputational rights.",
+      "keywords": ["Q&A", "IPC 499", "trends", "defamation", "social media"],
+      "confidence": 0.9,
+      "topic": ["Defamation"]
+    }
+  ]
+}

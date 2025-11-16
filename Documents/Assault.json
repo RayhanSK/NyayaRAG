@@ -1,0 +1,328 @@
+{
+  "dataset": "Assault (Sections 351/352 IPC)",
+  "jurisdiction": "India",
+  "language": "English",
+  "version": "1.1",
+  "created_at": "2025-10-04",
+  "updated_at": "2025-10-04",
+  "author": "Rayhan",
+  "chunks": [
+    {
+      "id": "ipc-351",
+      "type": "statute",
+      "title": "Section 351 IPC - Assault",
+      "content": "Whoever makes any gesture or preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he is about to use criminal force, is said to commit an assault.",
+      "summary": "Defines assault as gesture or act causing apprehension of force.",
+      "keywords": ["assault", "gesture", "criminal force", "violent act", "section 351", "IPC"],
+      "confidence": 0.95,
+      "section": "351",
+      "topic": ["IPC", "Assault"]
+    },
+    {
+      "id": "ipc-352",
+      "type": "statute",
+      "title": "Section 352 IPC - Punishment for Assault",
+      "content": "Whoever assaults or uses criminal force otherwise than on grave provocation, shall be punished with imprisonment up to 3 months, or fine up to five hundred rupees, or both.",
+      "summary": "Punishment for assault without grave provocation.",
+      "keywords": ["punishment", "assault", "section 352", "criminal force", "IPC"],
+      "confidence": 0.95,
+      "section": "352",
+      "topic": ["IPC", "Assault"]
+    },
+    {
+      "id": "procedure-cognizable-351/352",
+      "type": "procedure",
+      "title": "Nature of Offence",
+      "content": "Section 351/352 IPC offences are cognizable; police can register FIR and arrest without prior magistrate approval.",
+      "summary": "Cognizable offence: police can act without magistrate approval.",
+      "keywords": ["procedure", "cognizable", "IPC 351/352", "assault"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Assault"]
+    },
+    {
+      "id": "procedure-bailability-351/352",
+      "type": "procedure",
+      "title": "Bailability",
+      "content": "Section 351/352 IPC is non-bailable. Bail is at the discretion of the court, not a right.",
+      "summary": "Non-bailable offence.",
+      "keywords": ["procedure", "bailability", "IPC 351/352", "assault"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Assault"]
+    },
+    {
+      "id": "procedure-trial-351/352",
+      "type": "procedure",
+      "title": "Trial Jurisdiction",
+      "content": "Section 351/352 IPC offences are triable by the Court of Session due to seriousness.",
+      "summary": "Triable by Court of Session.",
+      "keywords": ["procedure", "trial", "IPC 351/352", "assault"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Assault"]
+    },
+    {
+      "id": "evidence-351/352-1",
+      "type": "evidence",
+      "title": "Witness Testimony",
+      "content": "Eyewitness accounts and corroboration are essential to establish guilt in assault cases.",
+      "summary": "Witness testimony with corroboration strengthens prosecution.",
+      "keywords": ["evidence", "witness", "IPC 351/352", "assault"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Assault"]
+    },
+    {
+      "id": "evidence-351/352-2",
+      "type": "evidence",
+      "title": "Medical & Forensic Evidence",
+      "content": "Medical reports and forensic analysis establish the nature of injury, cause, or identity of accused in assault cases.",
+      "summary": "Expert medical/forensic reports crucial for proof.",
+      "keywords": ["evidence", "medical", "forensic", "IPC 351/352", "assault"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Assault"]
+    },
+    {
+      "id": "doctrine-351/352-mensrea",
+      "type": "doctrinal",
+      "title": "Mens Rea & Actus Reus",
+      "content": "Court assesses intention (mens rea) and the act (actus reus) to establish liability for assault.",
+      "summary": "Both mental and physical elements required.",
+      "keywords": ["mens rea", "actus reus", "IPC 351/352", "assault"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Assault"]
+    },
+    {
+      "id": "precedent-351/352-1",
+      "type": "precedent",
+      "case_name": "Rupan Deol Bajaj v. KPS Gill",
+      "court": "Supreme Court",
+      "year": 1995,
+      "facts": "Molestation/assault by senior officer.",
+      "issue": "Whether IPC 354 or 352 applies.",
+      "ratio": "Assault established by act causing apprehension.",
+      "holding": "Conviction upheld.",
+      "outcome": "Guilty.",
+      "keywords": ["precedent", "case law", "IPC 351/352", "assault"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Assault"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-351/352-2",
+      "type": "precedent",
+      "case_name": "State v. Anil Sharma",
+      "court": "Delhi High Court",
+      "year": 2007,
+      "facts": "Physical altercation in public.",
+      "issue": "Whether provocation mitigates.",
+      "ratio": "Grave provocation can reduce punishment for assault.",
+      "holding": "Sentence reduced.",
+      "outcome": "Lesser sentence.",
+      "keywords": ["precedent", "case law", "IPC 351/352", "assault"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Assault"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-351/352-3",
+      "type": "precedent",
+      "case_name": "Santokh Singh v. State",
+      "court": "Punjab & Haryana HC",
+      "year": 1980,
+      "facts": "Minor assault.",
+      "issue": "Whether IPC 323 or 352 applies.",
+      "ratio": "Assault without injury is 352.",
+      "holding": "Conviction altered.",
+      "outcome": "Conviction under 352.",
+      "keywords": ["precedent", "case law", "IPC 351/352", "assault"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Assault"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    }
+    ,
+    {
+      "id": "qa-351/352-1",
+      "type": "qa",
+      "question": "What is the punishment under Section 351/352 IPC?",
+      "answer": "Punishment includes imprisonment and/or fine as provided by law.",
+      "keywords": ["Q&A", "IPC 351/352", "punishment", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-2",
+      "type": "qa",
+      "question": "Is Section 351/352 a bailable offence?",
+      "answer": "No, it is generally non-bailable.",
+      "keywords": ["Q&A", "IPC 351/352", "bailability", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-3",
+      "type": "qa",
+      "question": "Is Section 351/352 a cognizable offence?",
+      "answer": "Yes, police may register FIR and investigate without magistrate approval.",
+      "keywords": ["Q&A", "IPC 351/352", "cognizable", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-4",
+      "type": "qa",
+      "question": "What is the legal definition of assault under Section 351 IPC?",
+      "answer": "Assault is any gesture or preparation to use criminal force, intentionally causing apprehension of harm in another person.",
+      "keywords": ["Q&A", "IPC 351", "definition", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-5",
+      "type": "qa",
+      "question": "What is criminal force under Section 352 IPC?",
+      "answer": "Criminal force is using force intentionally without consent in order to commit an offence or cause injury, fear, or annoyance.",
+      "keywords": ["Q&A", "IPC 352", "criminal force", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-6",
+      "type": "qa",
+      "question": "Is assault under Section 351/352 IPC compoundable?",
+      "answer": "Yes, assault and use of criminal force under Sections 351/352 are typically compoundable with court permission.",
+      "keywords": ["Q&A", "IPC 351/352", "compoundable", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-7",
+      "type": "qa",
+      "question": "Which court tries offences under Section 351/352 IPC?",
+      "answer": "Usually tried by Magistrate courts as these are less serious offences.",
+      "keywords": ["Q&A", "IPC 351/352", "trial court", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-8",
+      "type": "qa",
+      "question": "Can assault under Section 351 IPC occur without any physical contact?",
+      "answer": "Yes, assault involves an act or gesture causing apprehension of harm—even without physical contact.",
+      "keywords": ["Q&A", "IPC 351", "physical contact", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-9",
+      "type": "qa",
+      "question": "Is intention necessary for conviction under Section 352 IPC?",
+      "answer": "Yes, intention to use force is a necessary ingredient for conviction.",
+      "keywords": ["Q&A", "IPC 352", "intention", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-10",
+      "type": "qa",
+      "question": "What is the maximum punishment for assault under Section 352 IPC?",
+      "answer": "Maximum punishment is imprisonment up to 3 months, or fine up to 500 rupees, or both.",
+      "keywords": ["Q&A", "IPC 352", "maximum punishment", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-11",
+      "type": "qa",
+      "question": "Can minors be prosecuted under Section 351/352 IPC?",
+      "answer": "Yes, but juvenile offenders are dealt with under the Juvenile Justice Act.",
+      "keywords": ["Q&A", "IPC 351/352", "juvenile", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-12",
+      "type": "qa",
+      "question": "Are there any defences to assault under Section 351/352 IPC?",
+      "answer": "Common defences include lack of intention, self-defence, consent, or act done without criminal force.",
+      "keywords": ["Q&A", "IPC 351/352", "defences", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-13",
+      "type": "qa",
+      "question": "Does conviction under Section 351/352 affect government employment?",
+      "answer": "It may affect government employment, depending on the nature and seriousness of the conviction.",
+      "keywords": ["Q&A", "IPC 351/352", "government employment", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-14",
+      "type": "qa",
+      "question": "Can a conviction under Section 351/352 IPC be appealed?",
+      "answer": "Yes, convicts may appeal the decision in higher courts.",
+      "keywords": ["Q&A", "IPC 351/352", "appeal", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-15",
+      "type": "qa",
+      "question": "Is there any limitation period for trial under Section 351/352 IPC?",
+      "answer": "Yes, there is a limitation period which is generally 1 year for minor offences.",
+      "keywords": ["Q&A", "IPC 351/352", "limitation period", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-16",
+      "type": "qa",
+      "question": "Is medical evidence required in Section 351/352 IPC cases?",
+      "answer": "Medical evidence is needed if there are physical injuries due to alleged criminal force.",
+      "keywords": ["Q&A", "IPC 351/352", "medical evidence", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-17",
+      "type": "qa",
+      "question": "What recent trends have emerged in assault cases under IPC?",
+      "answer": "Recent trends include reliance on CCTV footage, eyewitness accounts, and swift trials for summary offences.",
+      "keywords": ["Q&A", "IPC 351/352", "trends", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-18",
+      "type": "qa",
+      "question": "Can abetment of assault under Section 351/352 IPC be punished?",
+      "answer": "Yes, abetment is punishable under relevant provisions, like Section 109 IPC.",
+      "keywords": ["Q&A", "IPC 351/352", "abetment", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-19",
+      "type": "qa",
+      "question": "Is public servant immunity available under Section 351/352 IPC?",
+      "answer": "If the act was done in good faith while performing official duty, public servants may invoke immunity under IPC.",
+      "keywords": ["Q&A", "IPC 351/352", "public servant", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    },
+    {
+      "id": "qa-351/352-20",
+      "type": "qa",
+      "question": "Is a complaint mandatory for starting proceedings under Section 351/352 IPC?",
+      "answer": "A complaint is not mandatory; police can act on their own on receipt of information for cognizable assault offences.",
+      "keywords": ["Q&A", "IPC 351/352", "complaint", "assault"],
+      "confidence": 0.9,
+      "topic": ["Assault"]
+    }
+]
+}

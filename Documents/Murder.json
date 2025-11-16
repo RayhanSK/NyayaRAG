@@ -1,0 +1,336 @@
+{
+  "dataset": "Murder (Section 302 IPC)",
+  "jurisdiction": "India",
+  "language": "English",
+  "version": "1.1",
+  "created_at": "2025-10-04",
+  "updated_at": "2025-10-04",
+  "author": "Rayhan",
+  "chunks": [
+    {
+      "id": "ipc-302",
+      "type": "statute",
+      "title": "Section 302 IPC - Punishment for Murder",
+      "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+      "summary": "Prescribes punishment for murder: death penalty or life imprisonment with fine.",
+      "keywords": ["murder", "section 302", "punishment", "death penalty", "life imprisonment", "IPC"],
+      "confidence": 0.98,
+      "section": "302",
+      "topic": ["IPC", "Murder"]
+    },
+    {
+      "id": "procedure-302",
+      "type": "procedure",
+      "title": "Trial and Bailability",
+      "content": "Murder is a cognizable, non-bailable offence triable by a Court of Session.",
+      "summary": "Non-bailable, cognizable, tried by Sessions Court.",
+      "keywords": ["procedure", "sessions court", "non-bailable", "cognizable", "trial", "Murder", "IPC 302"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Murder"]
+    },
+    {
+      "id": "doctrine-302",
+      "type": "doctrinal",
+      "title": "Ingredients of Murder",
+      "content": "Murder requires intention or knowledge of likely death and actus reus causing death.",
+      "summary": "Defines mental and physical elements of murder.",
+      "keywords": ["mens rea", "actus reus", "murder", "intention", "knowledge", "ingredients", "IPC 302"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Murder"]
+    },
+    {
+      "id": "procedure-cognizable-302",
+      "type": "procedure",
+      "title": "Nature of Offence",
+      "content": "The offence under Section 302 IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval.",
+      "summary": "Cognizable offence: police can act without magistrate approval.",
+      "keywords": ["procedure", "cognizable", "FIR", "arrest", "IPC 302", "Murder"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Murder"]
+    },
+    {
+      "id": "procedure-bailability-302",
+      "type": "procedure",
+      "title": "Bailability",
+      "content": "Section 302 IPC is non-bailable. Bail is at the discretion of the court, not a right.",
+      "summary": "Non-bailable offence.",
+      "keywords": ["procedure", "bailability", "non-bailable", "Murder", "IPC 302"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Murder"]
+    },
+    {
+      "id": "procedure-trial-302",
+      "type": "procedure",
+      "title": "Trial Jurisdiction",
+      "content": "Due to seriousness, Section 302 IPC offences are triable by the Court of Session.",
+      "summary": "Triable by Court of Session.",
+      "keywords": ["procedure", "trial", "court of session", "Murder", "IPC 302"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Murder"]
+    },
+    {
+      "id": "evidence-302-1",
+      "type": "evidence",
+      "title": "Witness Testimony",
+      "content": "Eyewitness accounts and corroboration are essential to establish guilt.",
+      "summary": "Witness testimony with corroboration strengthens prosecution.",
+      "keywords": ["evidence", "witness", "corroboration", "testimony", "Murder", "IPC 302"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Murder"]
+    },
+    {
+      "id": "evidence-302-2",
+      "type": "evidence",
+      "title": "Medical & Forensic Evidence",
+      "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused.",
+      "summary": "Expert medical/forensic reports crucial for proof.",
+      "keywords": ["evidence", "medical", "forensic", "injury", "cause of death", "Murder", "IPC 302"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Murder"]
+    },
+    {
+      "id": "doctrine-302-mensrea",
+      "type": "doctrinal",
+      "title": "Mens Rea & Actus Reus",
+      "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability.",
+      "summary": "Both mental and physical elements required.",
+      "keywords": ["mens rea", "actus reus", "Murder", "IPC 302", "liability"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Murder"]
+    },
+    {
+      "id": "precedent-302-1",
+      "type": "precedent",
+      "case_name": "K.M. Nanavati v. State of Maharashtra",
+      "court": "Supreme Court",
+      "year": 1962,
+      "facts": "Accused killed wife's lover.",
+      "issue": "Was it murder or culpable homicide?",
+      "ratio": "Heat of passion may reduce offence.",
+      "holding": "Conviction under 302 upheld.",
+      "outcome": "Life imprisonment.",
+      "keywords": ["precedent", "case law", "IPC 302", "heat of passion", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Murder"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-302-2",
+      "type": "precedent",
+      "case_name": "State of Rajasthan v. Kashi Ram",
+      "court": "Supreme Court",
+      "year": 2006,
+      "facts": "Accused murdered family members.",
+      "issue": "Circumstantial evidence sufficiency.",
+      "ratio": "Chain of evidence must be complete.",
+      "holding": "Conviction upheld.",
+      "outcome": "Guilty.",
+      "keywords": ["precedent", "case law", "circumstantial evidence", "chain of evidence", "IPC 302", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Murder"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-302-3",
+      "type": "precedent",
+      "case_name": "Bachan Singh v. State of Punjab",
+      "court": "Supreme Court",
+      "year": 1980,
+      "facts": "Doctrine of rarest of rare.",
+      "issue": "When to apply death penalty.",
+      "ratio": "Death only in rarest of rare cases.",
+      "holding": "Death penalty upheld.",
+      "outcome": "Death penalty.",
+      "keywords": ["precedent", "case law", "rarest of rare", "death penalty", "IPC 302", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Murder"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "qa-302-1",
+      "type": "qa",
+      "question": "What is the punishment under Section 302 IPC?",
+      "answer": "Punishment includes imprisonment and/or fine as provided by law.",
+      "keywords": ["Q&A", "IPC 302", "punishment", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-2",
+      "type": "qa",
+      "question": "Is Section 302 a bailable offence?",
+      "answer": "No, it is generally non-bailable.",
+      "keywords": ["Q&A", "IPC 302", "bailability", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-3",
+      "type": "qa",
+      "question": "Is Section 302 a cognizable offence?",
+      "answer": "Yes, police may register FIR and investigate without magistrate approval.",
+      "keywords": ["Q&A", "IPC 302", "cognizable", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-4",
+      "type": "qa",
+      "question": "What is the minimum punishment for Section 302 IPC?",
+      "answer": "The minimum punishment is life imprisonment; death penalty is also possible depending on the case.",
+      "keywords": ["Q&A", "IPC 302", "minimum punishment", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-5",
+      "type": "qa",
+      "question": "What is the maximum punishment under Section 302 IPC?",
+      "answer": "The maximum punishment is the death penalty.",
+      "keywords": ["Q&A", "IPC 302", "maximum punishment", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-6",
+      "type": "qa",
+      "question": "Is Section 302 IPC compoundable?",
+      "answer": "No, offences under Section 302 are not compoundable in the eyes of law.",
+      "keywords": ["Q&A", "IPC 302", "compoundable", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-7",
+      "type": "qa",
+      "question": "Do all murders result in the death penalty under Section 302?",
+      "answer": "No, the death penalty is given only in the 'rarest of rare' cases; otherwise, life imprisonment is awarded.",
+      "keywords": ["Q&A", "IPC 302", "punishment", "death penalty", "rarest of rare", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-8",
+      "type": "qa",
+      "question": "What are the essential ingredients of murder under Section 302 IPC?",
+      "answer": "There must be an act of causing death, intention or knowledge to cause death, and the act must not fall under exceptions of Section 300.",
+      "keywords": ["Q&A", "IPC 302", "essentials", "intention", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-9",
+      "type": "qa",
+      "question": "Does Section 302 IPC require intention to kill?",
+      "answer": "Yes, intention or knowledge that the act is likely to cause death is necessary for conviction.",
+      "keywords": ["Q&A", "IPC 302", "intention", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-10",
+      "type": "qa",
+      "question": "Can a minor be charged under Section 302 IPC?",
+      "answer": "Yes, but if the accused is under 18 years, provisions of the Juvenile Justice Act apply for trial and sentencing.",
+      "keywords": ["Q&A", "IPC 302", "juvenile", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-11",
+      "type": "qa",
+      "question": "What is the difference between Section 300 and Section 302 IPC?",
+      "answer": "Section 300 defines murder; Section 302 prescribes the punishment for murder.",
+      "keywords": ["Q&A", "IPC 300", "IPC 302", "difference", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-12",
+      "type": "qa",
+      "question": "Can Section 302 IPC be invoked for attempt to murder?",
+      "answer": "No, attempt to murder is covered under Section 307 IPC, not Section 302.",
+      "keywords": ["Q&A", "IPC 302", "IPC 307", "attempt", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-13",
+      "type": "qa",
+      "question": "Does a life sentence under Section 302 mean imprisonment for the convict's entire life?",
+      "answer": "Yes, unless remitted or commuted as per law by appropriate government authorities; generally, life imprisonment means remainder of natural life.",
+      "keywords": ["Q&A", "IPC 302", "life imprisonment", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-14",
+      "type": "qa",
+      "question": "Can Section 302 IPC cases be tried by a Magistrate?",
+      "answer": "No, Section 302 offences are triable only by a Court of Session due to their seriousness.",
+      "keywords": ["Q&A", "IPC 302", "trial court", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-15",
+      "type": "qa",
+      "question": "Are medical reports necessary in Section 302 IPC prosecutions?",
+      "answer": "Medical reports and post-mortem examination are crucial evidence to establish cause of death in murder cases.",
+      "keywords": ["Q&A", "IPC 302", "medical report", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-16",
+      "type": "qa",
+      "question": "What are some common defences against a charge of murder under Section 302?",
+      "answer": "Common defences include absence of intention, grave and sudden provocation, private defence, alibi, unsound mind, and benefit of doubt due to insufficient evidence.",
+      "keywords": ["Q&A", "IPC 302", "defences", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-17",
+      "type": "qa",
+      "question": "What is the limitation period for trial under Section 302 IPC?",
+      "answer": "There is no limitation period for murder prosecutions; the case can be tried at any time after the commission of the offence.",
+      "keywords": ["Q&A", "IPC 302", "limitation period", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-18",
+      "type": "qa",
+      "question": "Is abetment of murder punishable under Section 302 IPC?",
+      "answer": "Abetment is punished under Section 109 or 120B IPC in combination with Section 302, not under Section 302 alone.",
+      "keywords": ["Q&A", "IPC 302", "abetment", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-19",
+      "type": "qa",
+      "question": "Do Section 302 IPC convictions affect government employment?",
+      "answer": "Yes, conviction for murder (Section 302) generally disqualifies a person from government service.",
+      "keywords": ["Q&A", "IPC 302", "government employment", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    },
+    {
+      "id": "qa-302-20",
+      "type": "qa",
+      "question": "Can a conviction under Section 302 IPC be appealed?",
+      "answer": "Yes, a person convicted under Section 302 IPC can appeal to the High Court and subsequently to the Supreme Court.",
+      "keywords": ["Q&A", "IPC 302", "appeal", "Murder"],
+      "confidence": 0.9,
+      "topic": ["Murder"]
+    }
+  ]
+}

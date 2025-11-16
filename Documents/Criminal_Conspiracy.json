@@ -1,0 +1,316 @@
+{
+  "dataset": "Criminal Conspiracy (Section 120B IPC)",
+  "jurisdiction": "India",
+  "language": "English",
+  "version": "1.1",
+  "created_at": "2025-10-04",
+  "updated_at": "2025-10-04",
+  "author": "Rayhan",
+  "chunks": [
+    {
+      "id": "ipc-120b",
+      "type": "statute",
+      "title": "Section 120B IPC - Punishment for Criminal Conspiracy",
+      "content": "Whoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life, or rigorous imprisonment for a term of two years or upwards, shall be punished in the same manner as if he had abetted such offence.",
+      "summary": "Defines punishment for conspiracy to commit serious offences.",
+      "keywords": ["criminal conspiracy", "section 120B", "punishment", "IPC"],
+      "confidence": 0.95,
+      "section": "120B",
+      "topic": ["IPC", "Criminal Conspiracy"]
+    },
+    {
+      "id": "procedure-cognizable-120B",
+      "type": "procedure",
+      "title": "Nature of Offence",
+      "content": "The offence under Section 120B IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval.",
+      "summary": "Cognizable offence: police can act without magistrate approval.",
+      "keywords": ["procedure", "cognizable", "IPC 120B", "criminal conspiracy"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Criminal Conspiracy"]
+    },
+    {
+      "id": "procedure-bailability-120B",
+      "type": "procedure",
+      "title": "Bailability",
+      "content": "Section 120B IPC is non-bailable. Bail is at the discretion of the court, not a right.",
+      "summary": "Non-bailable offence.",
+      "keywords": ["procedure", "bailability", "IPC 120B", "criminal conspiracy"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Criminal Conspiracy"]
+    },
+    {
+      "id": "procedure-trial-120B",
+      "type": "procedure",
+      "title": "Trial Jurisdiction",
+      "content": "Due to seriousness, Section 120B IPC offences are triable by the Court of Session.",
+      "summary": "Triable by Court of Session.",
+      "keywords": ["procedure", "trial", "IPC 120B", "court of session", "criminal conspiracy"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Criminal Conspiracy"]
+    },
+    {
+      "id": "evidence-120B-1",
+      "type": "evidence",
+      "title": "Witness Testimony",
+      "content": "Eyewitness accounts and corroboration are essential to establish guilt.",
+      "summary": "Witness testimony with corroboration strengthens prosecution.",
+      "keywords": ["evidence", "witness", "IPC 120B", "corroboration", "criminal conspiracy"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Criminal Conspiracy"]
+    },
+    {
+      "id": "evidence-120B-2",
+      "type": "evidence",
+      "title": "Medical & Forensic Evidence",
+      "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused.",
+      "summary": "Expert medical/forensic reports crucial for proof.",
+      "keywords": ["evidence", "medical", "forensic", "IPC 120B", "criminal conspiracy"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Criminal Conspiracy"]
+    },
+    {
+      "id": "doctrine-120B-mensrea",
+      "type": "doctrinal",
+      "title": "Mens Rea & Actus Reus",
+      "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability.",
+      "summary": "Both mental and physical elements required.",
+      "keywords": ["doctrine", "mens rea", "actus reus", "criminal conspiracy", "IPC 120B"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Criminal Conspiracy"]
+    },
+    {
+      "id": "precedent-120B-1",
+      "type": "precedent",
+      "case_name": "State v. Nalini (Rajiv Gandhi Assassination)",
+      "court": "Supreme Court",
+      "year": 1999,
+      "facts": "Conspiracy to assassinate PM.",
+      "issue": "Liability of conspirators.",
+      "ratio": "All conspirators equally liable.",
+      "holding": "Convictions upheld.",
+      "outcome": "Guilty.",
+      "keywords": ["precedent", "case law", "IPC 120B", "liability", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Criminal Conspiracy"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-120B-2",
+      "type": "precedent",
+      "case_name": "State of Maharashtra v. Som Nath Thapa",
+      "court": "Supreme Court",
+      "year": 1996,
+      "facts": "Conspiracy in bomb blast case.",
+      "issue": "When conspiracy complete.",
+      "ratio": "Agreement itself is offence.",
+      "holding": "Conspiracy proved.",
+      "outcome": "Conviction sustained.",
+      "keywords": ["precedent", "case law", "IPC 120B", "agreement", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Criminal Conspiracy"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-120B-3",
+      "type": "precedent",
+      "case_name": "Kehar Singh v. State (Indira Gandhi Assassination)",
+      "court": "Supreme Court",
+      "year": 1988,
+      "facts": "Conspiracy to assassinate PM.",
+      "issue": "Proof of conspiracy.",
+      "ratio": "Conspiracy may be proved by circumstantial evidence.",
+      "holding": "Convictions upheld.",
+      "outcome": "Death penalty.",
+      "keywords": ["precedent", "case law", "IPC 120B", "circumstantial evidence", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Criminal Conspiracy"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "qa-120B-1",
+      "type": "qa",
+      "question": "What is the punishment under Section 120B IPC?",
+      "answer": "Punishment includes imprisonment and/or fine as provided by law.",
+      "keywords": ["Q&A", "IPC 120B", "punishment", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-2",
+      "type": "qa",
+      "question": "Is Section 120B a bailable offence?",
+      "answer": "No, it is generally non-bailable.",
+      "keywords": ["Q&A", "IPC 120B", "bailability", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-3",
+      "type": "qa",
+      "question": "Is Section 120B a cognizable offence?",
+      "answer": "Yes, police may register FIR and investigate without magistrate approval.",
+      "keywords": ["Q&A", "IPC 120B", "cognizable", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-4",
+      "type": "qa",
+      "question": "What is criminal conspiracy under Section 120A IPC?",
+      "answer": "Criminal conspiracy means an agreement between two or more persons to commit an illegal act or a legal act by illegal means.",
+      "keywords": ["Q&A", "IPC 120A", "criminal conspiracy", "definition"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-5",
+      "type": "qa",
+      "question": "Can mere agreement amount to criminal conspiracy under Section 120B?",
+      "answer": "Yes, the act of agreeing itself constitutes criminal conspiracy even if no further act is done.",
+      "keywords": ["Q&A", "IPC 120B", "agreement", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-6",
+      "type": "qa",
+      "question": "Is criminal conspiracy under Section 120B IPC compoundable?",
+      "answer": "No, conspiracy cases are not compoundable under law.",
+      "keywords": ["Q&A", "IPC 120B", "compoundable", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-7",
+      "type": "qa",
+      "question": "Which court tries offences under Section 120B IPC?",
+      "answer": "Session Courts generally try serious conspiracy cases, while Magistrate courts can try minor ones.",
+      "keywords": ["Q&A", "IPC 120B", "trial court", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-8",
+      "type": "qa",
+      "question": "Is intention required for conviction under Section 120B IPC?",
+      "answer": "Yes, intention to commit an illegal act is necessary for conviction.",
+      "keywords": ["Q&A", "IPC 120B", "intention", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-9",
+      "type": "qa",
+      "question": "Can a minor be prosecuted for criminal conspiracy?",
+      "answer": "Yes, but if under 18, proceedings are under the Juvenile Justice Act.",
+      "keywords": ["Q&A", "IPC 120B", "juvenile", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-10",
+      "type": "qa",
+      "question": "Can abetment of criminal conspiracy be punished?",
+      "answer": "Yes, abetment is punishable under Sections 109/120B IPC.",
+      "keywords": ["Q&A", "IPC 120B", "abetment", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-11",
+      "type": "qa",
+      "question": "Is medical evidence required in criminal conspiracy cases?",
+      "answer": "Medical evidence is not usually relevant unless the illegal act involves bodily harm.",
+      "keywords": ["Q&A", "IPC 120B", "medical evidence", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-12",
+      "type": "qa",
+      "question": "Can conviction under Section 120B IPC be appealed?",
+      "answer": "Yes, the convicted individual may appeal in higher courts.",
+      "keywords": ["Q&A", "IPC 120B", "appeal", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-13",
+      "type": "qa",
+      "question": "Does conviction under Section 120B IPC affect government employment?",
+      "answer": "Conviction for conspiracy may bar an individual from government service.",
+      "keywords": ["Q&A", "IPC 120B", "government employment", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-14",
+      "type": "qa",
+      "question": "Are companies or firms liable under Section 120B IPC?",
+      "answer": "Yes, corporate entities can be held liable for criminal conspiracy if employees/directors are involved.",
+      "keywords": ["Q&A", "IPC 120B", "corporate liability", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-15",
+      "type": "qa",
+      "question": "Are criminal conspiracy cases triable without evidence of overt act?",
+      "answer": "Yes, even without an overt act, evidence of agreement is sufficient for prosecution.",
+      "keywords": ["Q&A", "IPC 120B", "overt act", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-16",
+      "type": "qa",
+      "question": "What common defences exist against criminal conspiracy charges?",
+      "answer": "Common defences include absence of agreement, lack of intention, or absence of illegal object.",
+      "keywords": ["Q&A", "IPC 120B", "defences", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-17",
+      "type": "qa",
+      "question": "Is there any limitation period for trial under Section 120B IPC?",
+      "answer": "Generally, there is no limitation for serious conspiracy offences.",
+      "keywords": ["Q&A", "IPC 120B", "limitation period", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-18",
+      "type": "qa",
+      "question": "Are conspiracy cases under Section 120B IPC compoundable if parties settle?",
+      "answer": "No, criminal conspiracy cases are non-compoundable and prosecuted even if parties settle.",
+      "keywords": ["Q&A", "IPC 120B", "compoundable", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-19",
+      "type": "qa",
+      "question": "What recent trends are seen in criminal conspiracy cases under IPC?",
+      "answer": "Recent trends include use of electronic communications as evidence and involvement of corporate entities.",
+      "keywords": ["Q&A", "IPC 120B", "trends", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    },
+    {
+      "id": "qa-120B-20",
+      "type": "qa",
+      "question": "Is FIR necessary to begin criminal conspiracy prosecution?",
+      "answer": "FIR is generally required to initiate investigation in criminal conspiracy offences under IPC.",
+      "keywords": ["Q&A", "IPC 120B", "FIR", "criminal conspiracy"],
+      "confidence": 0.9,
+      "topic": ["Criminal Conspiracy"]
+    }
+  ]
+}

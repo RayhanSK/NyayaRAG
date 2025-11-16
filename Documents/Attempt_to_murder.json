@@ -1,0 +1,365 @@
+{
+  "dataset": "Attempt to Murder (Section 307 IPC)",
+  "jurisdiction": "India",
+  "language": "English",
+  "version": "1.1",
+  "created_at": "2025-09-28",
+  "updated_at": "2025-09-28",
+  "author": "Rayhan",
+  "chunks": [
+    {
+      "id": "ipc-307",
+      "type": "statute",
+      "title": "Section 307 IPC - Attempt to Murder",
+      "content": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as hereinbefore mentioned. Attempts by life-convicts: When any person offending under this section is under sentence of imprisonment for life, he may, if hurt is caused, be punished with death.",
+      "summary": "Section 307 IPC criminalizes attempt to murder. Intention and overt act are sufficient for conviction, even if death does not occur.",
+      "keywords": ["attempt", "murder", "intention", "knowledge", "IPC 307", "attempt to murder"],
+      "confidence": 0.98,
+      "section": "307",
+      "topic": ["IPC", "Attempt to Murder"]
+    },
+    {
+      "id": "ipc-300",
+      "type": "statute",
+      "title": "Section 300 IPC - Murder Definition",
+      "content": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or if it is sufficient in the ordinary course of nature to cause death, or if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid.",
+      "summary": "Section 300 IPC defines murder by intention, knowledge, or imminently dangerous acts.",
+      "keywords": ["definition", "murder", "Section 300", "culpable homicide", "IPC"],
+      "confidence": 0.95,
+      "section": "300",
+      "topic": ["IPC", "Attempt to Murder"]
+    },
+    {
+      "id": "ipc-302",
+      "type": "statute",
+      "title": "Section 302 IPC - Punishment for Murder",
+      "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+      "summary": "Section 302 IPC prescribes punishment for murder: death penalty or life imprisonment with fine.",
+      "keywords": ["Section 302", "punishment", "murder", "IPC"],
+      "confidence": 0.95,
+      "section": "302",
+      "topic": ["IPC", "Attempt to Murder"]
+    },
+    {
+      "id": "ipc-308",
+      "type": "statute",
+      "title": "Section 308 IPC - Attempt to Commit Culpable Homicide",
+      "content": "Whoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+      "summary": "Section 308 IPC punishes attempts to commit culpable homicide not amounting to murder; lesser threshold than Section 307 IPC.",
+      "keywords": ["Section 308", "culpable homicide", "attempt", "IPC"],
+      "confidence": 0.95,
+      "section": "308",
+      "topic": ["IPC", "Attempt to Murder"]
+    },
+    {
+      "id": "crpc-cognizable",
+      "type": "procedure",
+      "title": "Nature of Offence - Cognizable",
+      "content": "Section 307 IPC is classified as a cognizable offence under CrPC. Police may register FIR, investigate, and arrest without prior approval from a Magistrate.",
+      "summary": "Cognizable offence: police can act directly without magistrate approval.",
+      "keywords": ["procedure", "trial", "IPC 307", "cognizable", "CrPC", "attempt to murder"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Attempt to Murder"]
+    },
+    {
+      "id": "crpc-bailability",
+      "type": "procedure",
+      "title": "Bailability - Non-bailable",
+      "content": "Section 307 IPC is a non-bailable offence. Accused has no absolute right to bail; bail is at the discretion of the court.",
+      "summary": "Non-bailable: bail is discretionary, not a right.",
+      "keywords": ["procedure", "bailability", "IPC 307", "CrPC", "attempt to murder"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Attempt to Murder"]
+    },
+    {
+      "id": "crpc-trial",
+      "type": "procedure",
+      "title": "Trial Jurisdiction - Court of Session",
+      "content": "The offence is triable exclusively by a Court of Session given its gravity. Magistrate may take cognizance, but trial is committed to the Court of Session.",
+      "summary": "Triable only by Court of Session.",
+      "keywords": ["procedure", "trial", "sessions court", "IPC 307", "attempt to murder"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Attempt to Murder"]
+    },
+    {
+      "id": "evidence-medical",
+      "type": "evidence",
+      "title": "Medical Reports & Expert Testimony",
+      "content": "Medical officers’ reports on injuries, weapon impact, and causation are admissible as expert evidence. Courts rely on doctors to establish whether the injuries inflicted could have been fatal.",
+      "summary": "Medical expert evidence helps prove seriousness of injuries and intention.",
+      "keywords": ["evidence", "medical", "expert testimony", "IPC 307", "attempt to murder"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Attempt to Murder"]
+    },
+    {
+      "id": "evidence-corroboration",
+      "type": "evidence",
+      "title": "Corroboration of Witness Testimony",
+      "content": "Eyewitness accounts are strengthened when supported by medical or forensic evidence. Corroboration is essential in serious cases.",
+      "summary": "Eyewitness testimony must be corroborated.",
+      "keywords": ["evidence", "witness", "corroboration", "IPC 307", "attempt to murder"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Attempt to Murder"]
+    },
+    {
+      "id": "evidence-confessions",
+      "type": "evidence",
+      "title": "Confessions",
+      "content": "Confessions must be voluntary and not induced by threat or promise. Confessions to police are inadmissible unless made before a Magistrate.",
+      "summary": "Confessions admissible only if voluntary and properly recorded before magistrate.",
+      "keywords": ["evidence", "confession", "admissibility", "IPC 307", "attempt to murder"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Attempt to Murder"]
+    },
+
+    {
+      "id": "extra-definition",
+      "type": "doctrinal",
+      "title": "Definition & Ingredients",
+      "content": "Attempt to murder involves an act with intention or knowledge that, if death had resulted, it would amount to murder. Ingredients: (i) act by accused; (ii) intention/knowledge; (iii) proximate step toward death.",
+      "keywords": ["doctrine", "actus reus", "mens rea", "attempt to murder", "IPC 307"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Attempt to Murder"]
+    },
+    {
+      "id": "extra-distinction",
+      "type": "doctrinal",
+      "title": "Distinction with Related Offences",
+      "content": "Section 307 vs Section 302: attempt vs completed murder. Section 307 vs Section 308: different thresholds of intention. Grievous hurt may also attract Section 307 if intent to kill is proven.",
+      "keywords": ["doctrine", "distinction", "ipc 307", "ipc 302", "ipc 308", "culpable homicide", "attempt to murder"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Attempt to Murder"]
+    },
+    {
+      "id": "extra-mensrea",
+      "type": "doctrinal",
+      "title": "Mens Rea & Actus Reus",
+      "content": "Courts consider nature of injury, weapon used, body part targeted, motive, and circumstances to infer intention (mens rea). Actus reus requires a proximate overt act toward causing death.",
+      "keywords": ["doctrine", "actus reus", "mens rea", "intention", "ipc 307", "attempt to murder"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Attempt to Murder"]
+    },
+    {
+      "id": "precedent-dileep",
+      "type": "precedent",
+      "case_name": "H. J. Dileep v. State of Karnataka",
+      "court": "Karnataka High Court",
+      "year": 2023,
+      "facts": "Accused attempted to kill the victim; injuries were not fatal.",
+      "issue": "Does absence of fatal injury prevent conviction under Section 307 IPC?",
+      "ratio": "Intention and an overt act are sufficient for conviction.",
+      "holding": "Conviction under Section 307 IPC upheld.",
+      "outcome": "Conviction sustained.",
+      "keywords": ["precedent", "case law", "IPC 307", "attempt to murder", "conviction"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Attempt to Murder"],
+      "source_url": "https://indiankanoon.org/search/?formInput=307%20IPC",
+      "source_type": "indiankanoon"
+    },
+    {
+      "id": "precedent-jayanth",
+      "type": "precedent",
+      "case_name": "Jayanth v. The State of Karnataka",
+      "court": "Karnataka High Court",
+      "year": 2022,
+      "facts": "Accused attacked victim with intent to kill; conviction challenged as uncorroborated.",
+      "issue": "Whether prosecution proved intention and corroborated testimony under Section 307 IPC.",
+      "ratio": "Prosecution must prove intention and corroboration.",
+      "holding": "Court stressed corroboration.",
+      "outcome": "Conviction reviewed.",
+      "keywords": ["precedent", "case law", "IPC 307", "attempt to murder", "corroboration"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Attempt to Murder"],
+      "source_url": "https://indiankanoon.org/search/?formInput=307%20IPC",
+      "source_type": "indiankanoon"
+    },
+    {
+      "id": "precedent-prakash",
+      "type": "precedent",
+      "case_name": "R. Prakash v. State of Karnataka",
+      "court": "Karnataka High Court",
+      "year": 2021,
+      "facts": "Accused convicted for causing injuries; conviction challenged.",
+      "issue": "Whether appellate court should interfere with conviction under Section 307 IPC.",
+      "ratio": "Deference to trial court unless unsupported by evidence.",
+      "holding": "Conviction upheld.",
+      "outcome": "Appeal dismissed.",
+      "keywords": ["precedent", "case law", "IPC 307", "attempt to murder", "appeal"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Attempt to Murder"],
+      "source_url": "https://indiankanoon.org/search/?formInput=307%20IPC",
+      "source_type": "indiankanoon"
+      },
+      {
+        "id": "qa-307-1",
+        "type": "qa",
+        "question": "What is the section for Attempt to Murder in the IPC?",
+        "answer": "Attempt to murder is covered by Section 307 of the Indian Penal Code (IPC).",
+        "keywords": ["Q&A", "IPC 307", "criminal law", "attempt to murder"],
+        "confidence": 0.85,
+        "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-2",
+      "type": "qa",
+      "question": "What are the essential ingredients to convict under Section 307 IPC?",
+      "answer": "(i) An act by the accused; (ii) The act done with intention or knowledge likely to cause death; (iii) The act must be a proximate step towards causing death. Corroborative evidence supports intention.",
+      "keywords": ["Q&A", "IPC 307", "ingredients", "intent", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-3",
+      "type": "qa",
+      "question": "Is causing grievous hurt sufficient for Section 307?",
+      "answer": "Not necessarily. Grievous hurt may attract Section 307 if prosecution proves the act was done with intention or knowledge of causing death.",
+      "keywords": ["Q&A", "IPC 307", "grievous hurt", "intent", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-4",
+      "type": "qa",
+      "question": "What is the maximum punishment for Attempt to Murder?",
+      "answer": "Imprisonment up to 10 years, which may extend to life imprisonment in cases where hurt is caused; a fine may also be imposed.",
+      "keywords": ["Q&A", "IPC 307", "punishment", "sentence", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-5",
+      "type": "qa",
+      "question": "Can Section 307 be invoked if the accused did not cause any physical injury?",
+      "answer": "Yes — conviction can be based on the nature of the act and intention even if death or injury did not occur, provided the act was such that it would have caused death if effective.",
+      "keywords": ["Q&A", "IPC 307", "intent", "physical injury", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-6",
+      "type": "qa",
+      "question": "What is the difference between Section 307 and Section 308 IPC?",
+      "answer": "Section 307 deals with attempt to murder; Section 308 penalizes attempt to commit culpable homicide not amounting to murder. The difference lies in degree of intention and severity of the act/result.",
+      "keywords": ["Q&A", "IPC 307", "IPC 308", "culpable homicide", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-7",
+      "type": "qa",
+      "question": "Is Section 307 a compoundable offence?",
+      "answer": "Generally, Section 307 IPC is non-compoundable (serious offence). However, courts have sometimes quashed proceedings in certain situations where facts justify compromise—these are exceptional and fact-specific.",
+      "keywords": ["Q&A", "IPC 307", "compoundable", "offence", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-8",
+      "type": "qa",
+      "question": "What kinds of evidence strengthen a Section 307 prosecution?",
+      "answer": "Medical reports, weapon recovery, eyewitness testimony, CCTV/forensic evidence, motive, and confessions (if admissible). Corroboration of testimony is important.",
+      "keywords": ["Q&A", "IPC 307", "evidence", "prosecution", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-9",
+      "type": "qa",
+      "question": "How do courts determine 'intention to kill'?",
+      "answer": "Courts infer intention from facts: nature of attack, weapon used, targeted body part, prior threats or motive, and whether the act was likely to cause death if successful.",
+      "keywords": ["Q&A", "IPC 307", "intention", "intent to kill", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-10",
+      "type": "qa",
+      "question": "Are there Karnataka High Court decisions that acquit in 307 cases due to lack of corroboration?",
+      "answer": "Yes — recent Karnataka HC judgments have set aside convictions under Section 307 where victim testimony was inconsistent and lacked corroboration.",
+      "keywords": ["Q&A", "IPC 307", "Karnataka High Court", "corroboration", "acquittal", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-11",
+      "type": "qa",
+      "question": "What is the role of medical evidence in 307 IPC trials?",
+      "answer": "Medical evidence documents injuries, their nature and severity, and supports inference about whether the act could have caused death; it is crucial corroborative evidence.",
+      "keywords": ["Q&A", "IPC 307", "medical evidence", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-12",
+      "type": "qa",
+      "question": "Can an accused be convicted under Section 307 if the victim survives with minor injuries?",
+      "answer": "Yes — survival does not preclude a 307 conviction if the prosecution proves intent and the act was such that it could have caused death.",
+      "keywords": ["Q&A", "IPC 307", "conviction", "minor injuries", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-13",
+      "type": "qa",
+      "question": "Is Section 307 triable by sessions court?",
+      "answer": "Yes — Section 307 offences are generally triable by the Court of Session due to seriousness and classification under CrPC.",
+      "keywords": ["Q&A", "IPC 307", "sessions court", "trial", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-14",
+      "type": "qa",
+      "question": "Does a confession to police help in 307 cases?",
+      "answer": "Confession to police is generally inadmissible; only confessions before a magistrate or formal statements are admissible, with caveats. Corroboration is still important.",
+      "keywords": ["Q&A", "IPC 307", "confession", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-15",
+      "type": "qa",
+      "question": "What is a common defence against a Section 307 charge?",
+      "answer": "Defences include lack of intention to kill, lack of corroborative evidence, self-defence, mistake of fact, or that the injuries were accidental or caused in a scuffle without intent.",
+      "keywords": ["Q&A", "IPC 307", "defence", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-16",
+      "type": "qa",
+      "question": "How many precedents should I include per topic for my dataset?",
+      "answer": "For a focused student project, 2–3 landmark precedents plus some recent high-court decisions are recommended; five precedents per topic makes a robust capsule.",
+      "keywords": ["Q&A", "IPC 307", "precedents", "dataset", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-17",
+      "type": "qa",
+      "question": "Can Section 307 be downgraded to a lesser offence at trial?",
+      "answer": "Courts may convict under lesser offences (e.g., grievous hurt) if intention to kill isn't established; the charge may be altered based on evidence.",
+      "keywords": ["Q&A", "IPC 307", "downgrade", "lesser offence", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-18",
+      "type": "qa",
+      "question": "What is the significance of 'probable consequence' in Section 307?",
+      "answer": "The act must be such that if it had caused death, it would amount to murder — courts analyze proximate likelihood of causing death as a consequence of the act.",
+      "keywords": ["Q&A", "IPC 307", "probable consequence", "intent", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    },
+    {
+      "id": "qa-307-19",
+      "type": "qa",
+      "question": "Should I store statute text or summaries in my RAG dataset?",
+      "answer": "Store both: authoritative statute text (for provenance) and a concise plain-language summary (for retrieval and user answers).",
+      "keywords": ["Q&A", "statute text", "summary", "dataset", "RAG", "attempt to murder"],
+      "confidence": 0.85,
+      "topic": ["Attempt to Murder"]
+    }
+  ]
+}

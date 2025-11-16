@@ -1,0 +1,327 @@
+{
+  "dataset": "Kidnapping / Abduction (Sections 359–374 IPC)",
+  "jurisdiction": "India",
+  "language": "English",
+  "version": "1.1",
+  "created_at": "2025-10-04",
+  "updated_at": "2025-10-04",
+  "author": "Rayhan",
+  "chunks": [
+    {
+      "id": "ipc-359",
+      "type": "statute",
+      "title": "Section 359 IPC - Kidnapping",
+      "content": "Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship.",
+      "summary": "Defines two types of kidnapping.",
+      "keywords": ["kidnapping", "section 359", "from India", "lawful guardianship", "IPC"],
+      "confidence": 0.95,
+      "section": "359",
+      "topic": ["IPC", "Kidnapping","Abduction"]
+    },
+    {
+      "id": "ipc-362",
+      "type": "statute",
+      "title": "Section 362 IPC - Abduction",
+      "content": "Whoever by force compels, or by deceitful means induces any person to go from any place, is said to abduct that person.",
+      "summary": "Defines abduction as forceful or deceitful inducement to move.",
+      "keywords": ["abduction", "section 362", "force", "deceit", "IPC"],
+      "confidence": 0.95,
+      "section": "362",
+      "topic": ["IPC", "Kidnapping","Abduction"]
+    },
+    {
+      "id": "procedure-cognizable-359-374",
+      "type": "procedure",
+      "title": "Nature of Offence",
+      "content": "The offence under Section 359-374 IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval.",
+      "summary": "Cognizable offence: police can act without magistrate approval.",
+      "keywords": ["procedure", "cognizable", "IPC 359-374", "FIR", "arrest", "Kidnapping/Abduction"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Kidnapping","Abduction"]
+    },
+    {
+      "id": "procedure-bailability-359-374",
+      "type": "procedure",
+      "title": "Bailability",
+      "content": "Section 359-374 IPC is non-bailable. Bail is at the discretion of the court, not a right.",
+      "summary": "Non-bailable offence.",
+      "keywords": ["procedure", "bailability", "IPC 359-374", "court", "Kidnapping/Abduction"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Kidnapping","Abduction"]
+    },
+    {
+      "id": "procedure-trial-359-374",
+      "type": "procedure",
+      "title": "Trial Jurisdiction",
+      "content": "Due to seriousness, Section 359-374 IPC offences are triable by the Court of Session.",
+      "summary": "Triable by Court of Session.",
+      "keywords": ["procedure", "trial", "court of session", "IPC 359-374", "Kidnapping/Abduction"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Kidnapping","Abduction"]
+    },
+    {
+      "id": "evidence-359-374-1",
+      "type": "evidence",
+      "title": "Witness Testimony",
+      "content": "Eyewitness accounts and corroboration are essential to establish guilt.",
+      "summary": "Witness testimony with corroboration strengthens prosecution.",
+      "keywords": ["evidence", "witness", "corroboration", "Kidnapping/Abduction", "IPC 359-374"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Kidnapping","Abduction"]
+    },
+    {
+      "id": "evidence-359-374-2",
+      "type": "evidence",
+      "title": "Medical & Forensic Evidence",
+      "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused.",
+      "summary": "Expert medical/forensic reports crucial for proof.",
+      "keywords": ["evidence", "medical", "forensic", "Kidnapping/Abduction", "IPC 359-374"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Kidnapping","Abduction"]
+    },
+    {
+      "id": "doctrine-359-374-mensrea",
+      "type": "doctrinal",
+      "title": "Mens Rea & Actus Reus",
+      "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability.",
+      "summary": "Both mental and physical elements required.",
+      "keywords": ["doctrine", "mens rea", "actus reus", "Kidnapping/Abduction", "IPC 359-374", "intention"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Kidnapping","Abduction"]
+    },
+    {
+      "id": "precedent-359-374-1",
+      "type": "precedent",
+      "case_name": "Sham Singh v. State of Haryana",
+      "court": "Supreme Court",
+      "year": 2009,
+      "facts": "Kidnapping for ransom.",
+      "issue": "Proof of intent.",
+      "ratio": "Ransom demand essential.",
+      "holding": "Conviction upheld.",
+      "outcome": "Life imprisonment.",
+      "keywords": ["precedent", "case law", "ransom", "intention", "IPC 359-374", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Kidnapping","Abduction"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-359-374-2",
+      "type": "precedent",
+      "case_name": "State v. Suresh",
+      "court": "Delhi High Court",
+      "year": 2012,
+      "facts": "Minor abducted for marriage.",
+      "issue": "Consent of minor valid?",
+      "ratio": "Consent of minor irrelevant.",
+      "holding": "Conviction upheld.",
+      "outcome": "Guilty.",
+      "keywords": ["precedent", "case law", "consent", "minor", "IPC 359-374", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Kidnapping","Abduction"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-359-374-3",
+      "type": "precedent",
+      "case_name": "Lallu Manjhi v. State of Jharkhand",
+      "court": "Supreme Court",
+      "year": 2003,
+      "facts": "Abduction with assault.",
+      "issue": "Difference between kidnapping and abduction.",
+      "ratio": "Defined distinction.",
+      "holding": "Conviction modified.",
+      "outcome": "Partially guilty.",
+      "keywords": ["precedent", "case law", "distinction", "assault", "IPC 359-374", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Kidnapping","Abduction"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "qa-359-374-1",
+      "type": "qa",
+      "question": "What is the punishment under Section 359-374 IPC?",
+      "answer": "Punishment includes imprisonment and/or fine as provided by law.",
+      "keywords": ["Q&A", "IPC 359-374", "punishment", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-2",
+      "type": "qa",
+      "question": "Is Section 359-374 a bailable offence?",
+      "answer": "No, it is generally non-bailable.",
+      "keywords": ["Q&A", "IPC 359-374", "bailability", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-3",
+      "type": "qa",
+      "question": "Is Section 359-374 a cognizable offence?",
+      "answer": "Yes, police may register FIR and investigate without magistrate approval.",
+      "keywords": ["Q&A", "IPC 359-374", "cognizable", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-4",
+      "type": "qa",
+      "question": "What is kidnapping as per Section 359 IPC?",
+      "answer": "Kidnapping means taking away a person by force, deceit, or without consent from lawful guardianship.",
+      "keywords": ["Q&A", "IPC 359", "kidnapping", "definition", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-5",
+      "type": "qa",
+      "question": "What is abduction under Section 362 IPC?",
+      "answer": "Abduction is the removal of a person by force or compulsion, usually for an illegal purpose.",
+      "keywords": ["Q&A", "IPC 362", "abduction", "definition", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-6",
+      "type": "qa",
+      "question": "Can kidnapping be compoundable under IPC?",
+      "answer": "No, kidnapping offences under IPC are not compoundable.",
+      "keywords": ["Q&A", "IPC 359-374", "compoundable", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-7",
+      "type": "qa",
+      "question": "What is the maximum punishment for kidnapping for ransom under Section 364A IPC?",
+      "answer": "Maximum punishment is death penalty or life imprisonment and fine.",
+      "keywords": ["Q&A", "IPC 364A", "kidnapping", "ransom", "punishment", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-8",
+      "type": "qa",
+      "question": "What is the difference between kidnapping and abduction under IPC?",
+      "answer": "Kidnapping is an offence per se, requiring taking away without consent; abduction requires a criminal intent and is punishable only when done for specific purposes.",
+      "keywords": ["Q&A", "IPC 359-374", "difference", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-9",
+      "type": "qa",
+      "question": "Is intention necessary for kidnapping under IPC?",
+      "answer": "Intention is not required for the basic offence of kidnapping, but it is for aggravated forms like ransom or exploitation.",
+      "keywords": ["Q&A", "IPC 359-374", "intention", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-10",
+      "type": "qa",
+      "question": "Can a minor be prosecuted for kidnapping or abduction?",
+      "answer": "Yes, but proceedings are conducted under the Juvenile Justice Act if the accused is under 18.",
+      "keywords": ["Q&A", "IPC 359-374", "juvenile", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-11",
+      "type": "qa",
+      "question": "Which court tries kidnapping/abduction cases under IPC?",
+      "answer": "Usually tried by Sessions Court, especially for serious offences.",
+      "keywords": ["Q&A", "IPC 359-374", "trial court", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-12",
+      "type": "qa",
+      "question": "Can abetment of kidnapping/abduction be punished?",
+      "answer": "Yes, abetment is punishable under relevant provisions such as Sections 107/108 IPC.",
+      "keywords": ["Q&A", "IPC 359-374", "abetment", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-13",
+      "type": "qa",
+      "question": "Does conviction for kidnapping affect government employment?",
+      "answer": "Yes, conviction for kidnapping/abduction generally bars an individual from government service.",
+      "keywords": ["Q&A", "IPC 359-374", "government employment", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-14",
+      "type": "qa",
+      "question": "Can a conviction for kidnapping/abduction be appealed?",
+      "answer": "Yes, a convicted person may appeal in High Court and Supreme Court.",
+      "keywords": ["Q&A", "IPC 359-374", "appeal", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-15",
+      "type": "qa",
+      "question": "Are there any common defences against kidnapping charges?",
+      "answer": "Absence of intention, consent of the person taken, mistaken identity or lack of guardianship may be used as defence.",
+      "keywords": ["Q&A", "IPC 359-374", "defences", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-16",
+      "type": "qa",
+      "question": "Is there any limitation period for trial under Section 359-374 IPC?",
+      "answer": "No, serious offences such as kidnapping have no limitation period for prosecution.",
+      "keywords": ["Q&A", "IPC 359-374", "limitation period", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-17",
+      "type": "qa",
+      "question": "Is medical evidence required in kidnapping/abduction cases?",
+      "answer": "Medical evidence is relevant if there are physical injuries, otherwise witness testimonies are primary.",
+      "keywords": ["Q&A", "IPC 359-374", "medical evidence", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-18",
+      "type": "qa",
+      "question": "What recent trends are emerging in prosecution of kidnapping/abduction?",
+      "answer": "Recent trends include use of electronic evidence, tracking mobile devices, and emphasis on quick rescue and rehabilitation of victims.",
+      "keywords": ["Q&A", "IPC 359-374", "trends", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-19",
+      "type": "qa",
+      "question": "Are offences under IPC 359-374 compoundable if victim returns home?",
+      "answer": "No, return of the victim does not compound the offence; prosecution proceeds as per law.",
+      "keywords": ["Q&A", "IPC 359-374", "compoundable", "victim", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    },
+    {
+      "id": "qa-359-374-20",
+      "type": "qa",
+      "question": "Is police complaint necessary for starting proceedings under Section 359-374 IPC?",
+      "answer": "Yes, police complaint (FIR) initiates investigation in kidnapping/abduction cases under IPC.",
+      "keywords": ["Q&A", "IPC 359-374", "complaint", "FIR", "Kidnapping/Abduction"],
+      "confidence": 0.9,
+      "topic": ["Kidnapping","Abduction"]
+    }
+  ]
+}

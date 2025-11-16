@@ -1,0 +1,328 @@
+{
+  "dataset": "Culpable Homicide not amounting to Murder (Sections 299/300 IPC)",
+  "jurisdiction": "India",
+  "language": "English",
+  "version": "1.1",
+  "created_at": "2025-10-04",
+  "updated_at": "2025-10-04",
+  "author": "Rayhan",
+  "chunks": [
+    {
+      "id": "ipc-299",
+      "type": "statute",
+      "title": "Section 299 IPC - Culpable Homicide",
+      "content": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits culpable homicide.",
+      "summary": "Defines culpable homicide by intention or knowledge causing death.",
+      "keywords": ["culpable homicide", "homicide", "section 299", "IPC 299", "death", "intention", "knowledge"],
+      "confidence": 0.95,
+      "section": "299",
+      "topic": ["IPC", "Culpable Homicide"]
+    },
+    {
+      "id": "ipc-300",
+      "type": "statute",
+      "title": "Section 300 IPC - When Culpable Homicide is Murder",
+      "content": "Except in cases excepted, culpable homicide is murder if done with intention of causing death or injury likely to cause death.",
+      "summary": "Defines when culpable homicide amounts to murder.",
+      "keywords": ["murder", "culpable homicide", "section 300", "IPC 300", "intention", "injury"],
+      "confidence": 0.95,
+      "section": "300",
+      "topic": ["IPC", "Culpable Homicide"]
+    },
+    {
+      "id": "procedure-cognizable-299/300",
+      "type": "procedure",
+      "title": "Nature of Offence",
+      "content": "The offence under Section 299/300 IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval.",
+      "summary": "Cognizable offence: police can act without magistrate approval.",
+      "keywords": ["procedure", "cognizable", "IPC 299/300", "culpable homicide"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Culpable Homicide"]
+    },
+    {
+      "id": "procedure-bailability-299/300",
+      "type": "procedure",
+      "title": "Bailability",
+      "content": "Section 299/300 IPC is non-bailable. Bail is at the discretion of the court, not a right.",
+      "summary": "Non-bailable offence.",
+      "keywords": ["procedure", "bailability", "IPC 299/300", "culpable homicide"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Culpable Homicide"]
+    },
+    {
+      "id": "procedure-trial-299/300",
+      "type": "procedure",
+      "title": "Trial Jurisdiction",
+      "content": "Due to seriousness, Section 299/300 IPC offences are triable by the Court of Session.",
+      "summary": "Triable by Court of Session.",
+      "keywords": ["procedure", "trial", "court of session", "IPC 299/300", "culpable homicide"],
+      "confidence": 0.95,
+      "topic": ["CrPC", "Culpable Homicide"]
+    },
+    {
+      "id": "evidence-299/300-1",
+      "type": "evidence",
+      "title": "Witness Testimony",
+      "content": "Eyewitness accounts and corroboration are essential to establish guilt.",
+      "summary": "Witness testimony with corroboration strengthens prosecution.",
+      "keywords": ["evidence", "witness", "corroboration", "culpable homicide", "IPC 299/300"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Culpable Homicide"]
+    },
+    {
+      "id": "evidence-299/300-2",
+      "type": "evidence",
+      "title": "Medical & Forensic Evidence",
+      "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused.",
+      "summary": "Expert medical/forensic reports crucial for proof.",
+      "keywords": ["evidence", "medical", "forensic", "culpable homicide", "IPC 299/300"],
+      "confidence": 0.95,
+      "topic": ["Evidence Act", "Culpable Homicide"]
+    },
+    {
+      "id": "doctrine-299/300-mensrea",
+      "type": "doctrinal",
+      "title": "Mens Rea & Actus Reus",
+      "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability.",
+      "summary": "Both mental and physical elements required.",
+      "keywords": ["mens rea", "actus reus", "intention", "culpable homicide", "IPC 299/300"],
+      "confidence": 0.95,
+      "topic": ["Doctrine", "Culpable Homicide"]
+    },
+    {
+      "id": "precedent-299/300-1",
+      "type": "precedent",
+      "case_name": "Virsa Singh v. State of Punjab",
+      "court": "Supreme Court",
+      "year": 1958,
+      "facts": "Single blow injury caused death.",
+      "issue": "Does single blow amount to murder?",
+      "ratio": "If injury sufficient to cause death, Section 300 applies.",
+      "holding": "Murder upheld.",
+      "outcome": "Conviction under 302.",
+      "keywords": ["precedent", "case law", "single blow", "murder", "culpable homicide", "Section 300", "IPC 299/300"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Culpable Homicide"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-299/300-2",
+      "type": "precedent",
+      "case_name": "Reg v. Govinda",
+      "court": "Bombay High Court",
+      "year": 1876,
+      "facts": "Husband caused wife's death.",
+      "issue": "Distinction between 299 and 300.",
+      "ratio": "Explained difference between culpable homicide and murder.",
+      "holding": "Conviction downgraded.",
+      "outcome": "Convicted under 299.",
+      "keywords": ["precedent", "case law", "culpable homicide", "murder", "difference", "IPC 299/300"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Culpable Homicide"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+    {
+      "id": "precedent-299/300-3",
+      "type": "precedent",
+      "case_name": "State of Andhra Pradesh v. Rayavarapu Punnayya",
+      "court": "Supreme Court",
+      "year": 1976,
+      "facts": "Dispute on classification.",
+      "issue": "Difference between culpable homicide and murder.",
+      "ratio": "Murder is aggravated form of culpable homicide.",
+      "holding": "Explained sections.",
+      "outcome": "Clarified law.",
+      "keywords": ["precedent", "case law", "culpable homicide", "murder", "aggravating factors", "IPC 299/300"],
+      "confidence": 0.9,
+      "topic": ["Case Law", "Culpable Homicide"],
+      "source_url": "https://indiankanoon.org",
+      "source_type": "indiankanoon",
+      "summary": ""
+    },
+
+    {
+      "id": "qa-299/300-1",
+      "type": "qa",
+      "question": "What is the punishment under Section 299/300 IPC?",
+      "answer": "Punishment includes imprisonment and/or fine as provided by law.",
+      "keywords": ["Q&A", "IPC 299/300", "punishment", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-2",
+      "type": "qa",
+      "question": "Is Section 299/300 a bailable offence?",
+      "answer": "No, it is generally non-bailable.",
+      "keywords": ["Q&A", "IPC 299/300", "bailability", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-3",
+      "type": "qa",
+      "question": "Is Section 299/300 a cognizable offence?",
+      "answer": "Yes, police may register FIR and investigate without magistrate approval.",
+      "keywords": ["Q&A", "IPC 299/300", "cognizable", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-4",
+      "type": "qa",
+      "question": "What is the definition of culpable homicide under Section 299 IPC?",
+      "answer": "Culpable homicide means causing death by doing an act with intention or knowledge that death is likely to result.",
+      "keywords": ["Q&A", "IPC 299", "definition", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-5",
+      "type": "qa",
+      "question": "How is murder differentiated from culpable homicide in the IPC?",
+      "answer": "All murder is culpable homicide but only the most aggravated forms of culpable homicide are classified as murder under Section 300.",
+      "keywords": ["Q&A", "IPC 299/300", "difference", "murder", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-6",
+      "type": "qa",
+      "question": "What are the exceptions to murder under Section 300 IPC?",
+      "answer": "Five exceptions convert murder to culpable homicide not amounting to murder, such as grave and sudden provocation and private defence.",
+      "keywords": ["Q&A", "IPC 300", "exceptions", "murder", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-7",
+      "type": "qa",
+      "question": "What is the maximum punishment for culpable homicide not amounting to murder?",
+      "answer": "Imprisonment for life, or imprisonment up to 10 years, and fine.",
+      "keywords": ["Q&A", "IPC 304", "maximum punishment", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-8",
+      "type": "qa",
+      "question": "Is culpable homicide under Section 299/300 IPC compoundable?",
+      "answer": "No, it is not compoundable.",
+      "keywords": ["Q&A", "IPC 299/300", "compoundable", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-9",
+      "type": "qa",
+      "question": "Can a minor be prosecuted for culpable homicide?",
+      "answer": "Yes, but if accused is under 18 years, the case is dealt with under the Juvenile Justice Act.",
+      "keywords": ["Q&A", "IPC 299/300", "juvenile", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-10",
+      "type": "qa",
+      "question": "Which court tries culpable homicide cases?",
+      "answer": "Sessions Court generally tries culpable homicide cases due to their seriousness.",
+      "keywords": ["Q&A", "IPC 299/300", "trial court", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-11",
+      "type": "qa",
+      "question": "Are medical reports necessary in culpable homicide cases?",
+      "answer": "Yes, medical reports and post-mortem help to establish cause of death and nature of injuries.",
+      "keywords": ["Q&A", "IPC 299/300", "medical report", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-12",
+      "type": "qa",
+      "question": "Does intention matter in culpable homicide not amounting to murder?",
+      "answer": "Yes, both intention to cause death and knowledge that death is likely are considered by courts.",
+      "keywords": ["Q&A", "IPC 299/300", "intention", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-13",
+      "type": "qa",
+      "question": "What is the role of grave and sudden provocation in culpable homicide?",
+      "answer": "It acts as an exception to murder, lowering liability to culpable homicide not amounting to murder.",
+      "keywords": ["Q&A", "IPC 300", "provocation", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-14",
+      "type": "qa",
+      "question": "Can abetment of culpable homicide be punished?",
+      "answer": "Yes, abetment is punishable under Section 109/120B IPC read with Section 299/304.",
+      "keywords": ["Q&A", "IPC 299/300", "abetment", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-15",
+      "type": "qa",
+      "question": "Are police empowered to arrest without warrant in culpable homicide cases?",
+      "answer": "Yes, as culpable homicide is cognizable.",
+      "keywords": ["Q&A", "IPC 299/300", "arrest", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-16",
+      "type": "qa",
+      "question": "What common defences are used in culpable homicide trials?",
+      "answer": "Defences include lack of intention, private defence, accidental death, grave and sudden provocation, or insanity.",
+      "keywords": ["Q&A", "IPC 299/300", "defences", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-17",
+      "type": "qa",
+      "question": "Is there any limitation period for prosecution of culpable homicide?",
+      "answer": "No, there is no limitation period; prosecution can proceed at any time.",
+      "keywords": ["Q&A", "IPC 299/300", "limitation period", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-18",
+      "type": "qa",
+      "question": "Does conviction for culpable homicide affect government employment?",
+      "answer": "Yes, conviction usually bars an individual from government service.",
+      "keywords": ["Q&A", "IPC 299/300", "government employment", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-19",
+      "type": "qa",
+      "question": "Can a conviction for culpable homicide be appealed?",
+      "answer": "Yes, the convicted person may appeal in High Court and Supreme Court.",
+      "keywords": ["Q&A", "IPC 299/300", "appeal", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    },
+    {
+      "id": "qa-299/300-20",
+      "type": "qa",
+      "question": "What are recent trends in culpable homicide judgments?",
+      "answer": "Recent judgments focus on evidence, medical proof, motive, and application of exceptions to distinguish murder from culpable homicide.",
+      "keywords": ["Q&A", "IPC 299/300", "trends", "culpable homicide"],
+      "confidence": 0.9,
+      "topic": ["Culpable Homicide"]
+    }
+  ]
+}
