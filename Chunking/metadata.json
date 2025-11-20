@@ -1,2107 +1,1281 @@
 [
   {
-    "id": "ipc-351",
     "type": "statute",
-    "topic": [
-      "IPC",
-      "Assault"
+    "title": "Section 351 IPC - Assault",
+    "summary": "Defines assault as gesture or act causing apprehension of force.",
+    "keywords": [
+      "assault",
+      "gesture",
+      "criminal force",
+      "violent act",
+      "section 351",
+      "IPC"
     ],
-    "source_file": "Assault.json",
+    "confidence": 0.95,
     "section": "351",
-    "confidence": 0.95
-  },
-  {
-    "id": "ipc-352",
-    "type": "statute",
     "topic": [
       "IPC",
       "Assault"
     ],
     "source_file": "Assault.json",
+    "id": "ipc-351-part0",
+    "content": "Whoever makes any gesture or preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he is about to use criminal force, is said to commit an assault."
+  },
+  {
+    "type": "statute",
+    "title": "Section 352 IPC - Punishment for Assault",
+    "summary": "Punishment for assault without grave provocation.",
+    "keywords": [
+      "punishment",
+      "assault",
+      "section 352",
+      "criminal force",
+      "IPC"
+    ],
+    "confidence": 0.95,
     "section": "352",
-    "confidence": 0.95
+    "topic": [
+      "IPC",
+      "Assault"
+    ],
+    "source_file": "Assault.json",
+    "id": "ipc-352-part0",
+    "content": "Whoever assaults or uses criminal force otherwise than on grave provocation, shall be punished with imprisonment up to 3 months, or fine up to five hundred rupees, or both."
   },
   {
-    "id": "procedure-cognizable-351/352",
     "type": "procedure",
+    "title": "Nature of Offence",
+    "summary": "Cognizable offence: police can act without magistrate approval.",
+    "keywords": [
+      "procedure",
+      "cognizable",
+      "IPC 351/352",
+      "assault"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Assault"
     ],
     "source_file": "Assault.json",
-    "confidence": 0.95
+    "id": "procedure-cognizable-351/352-part0",
+    "content": "Section 351/352 IPC offences are cognizable; police can register FIR and arrest without prior magistrate approval."
   },
   {
-    "id": "procedure-bailability-351/352",
     "type": "procedure",
+    "title": "Bailability",
+    "summary": "Non-bailable offence.",
+    "keywords": [
+      "procedure",
+      "bailability",
+      "IPC 351/352",
+      "assault"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Assault"
     ],
     "source_file": "Assault.json",
-    "confidence": 0.95
+    "id": "procedure-bailability-351/352-part0",
+    "content": "Section 351/352 IPC is non-bailable. Bail is at the discretion of the court, not a right."
   },
   {
-    "id": "procedure-trial-351/352",
     "type": "procedure",
+    "title": "Trial Jurisdiction",
+    "summary": "Triable by Court of Session.",
+    "keywords": [
+      "procedure",
+      "trial",
+      "IPC 351/352",
+      "assault"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Assault"
     ],
     "source_file": "Assault.json",
-    "confidence": 0.95
+    "id": "procedure-trial-351/352-part0",
+    "content": "Section 351/352 IPC offences are triable by the Court of Session due to seriousness."
   },
   {
-    "id": "evidence-351/352-1",
     "type": "evidence",
+    "title": "Witness Testimony",
+    "summary": "Witness testimony with corroboration strengthens prosecution.",
+    "keywords": [
+      "evidence",
+      "witness",
+      "IPC 351/352",
+      "assault"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Assault"
     ],
     "source_file": "Assault.json",
-    "confidence": 0.95
+    "id": "evidence-351/352-1-part0",
+    "content": "Eyewitness accounts and corroboration are essential to establish guilt in assault cases."
   },
   {
-    "id": "evidence-351/352-2",
     "type": "evidence",
+    "title": "Medical & Forensic Evidence",
+    "summary": "Expert medical/forensic reports crucial for proof.",
+    "keywords": [
+      "evidence",
+      "medical",
+      "forensic",
+      "IPC 351/352",
+      "assault"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Assault"
     ],
     "source_file": "Assault.json",
-    "confidence": 0.95
+    "id": "evidence-351/352-2-part0",
+    "content": "Medical reports and forensic analysis establish the nature of injury, cause, or identity of accused in assault cases."
   },
   {
-    "id": "doctrine-351/352-mensrea",
     "type": "doctrinal",
+    "title": "Mens Rea & Actus Reus",
+    "summary": "Both mental and physical elements required.",
+    "keywords": [
+      "mens rea",
+      "actus reus",
+      "IPC 351/352",
+      "assault"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Doctrine",
       "Assault"
     ],
     "source_file": "Assault.json",
-    "confidence": 0.95
+    "id": "doctrine-351/352-mensrea-part0",
+    "content": "Court assesses intention (mens rea) and the act (actus reus) to establish liability for assault."
   },
   {
-    "id": "precedent-351/352-1",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-351/352-2",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-351/352-3",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-1",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-2",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-3",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-4",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-5",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-6",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-7",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-8",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-9",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-10",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-11",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-12",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-13",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-14",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-15",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-16",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-17",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-18",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-19",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-351/352-20",
-    "type": "qa",
-    "topic": [
-      "Assault"
-    ],
-    "source_file": "Assault.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "ipc-307",
     "type": "statute",
-    "topic": [
-      "IPC",
-      "Attempt to Murder"
+    "title": "Section 307 IPC - Attempt to Murder",
+    "summary": "Section 307 IPC criminalizes attempt to murder. Intention and overt act are sufficient for conviction, even if death does not occur.",
+    "keywords": [
+      "attempt",
+      "murder",
+      "intention",
+      "knowledge",
+      "IPC 307",
+      "attempt to murder"
     ],
-    "source_file": "Attempt_to_murder.json",
+    "confidence": 0.98,
     "section": "307",
-    "confidence": 0.98
-  },
-  {
-    "id": "ipc-300",
-    "type": "statute",
     "topic": [
       "IPC",
       "Attempt to Murder"
     ],
     "source_file": "Attempt_to_murder.json",
+    "id": "ipc-307-part0",
+    "content": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as hereinbefore mentioned. Attempts by life-convicts: When any person offending under this section is under sentence of imprisonment for life, he may, if hurt is caused, be punished with death."
+  },
+  {
+    "type": "statute",
+    "title": "Section 300 IPC - Murder Definition",
+    "summary": "Section 300 IPC defines murder by intention, knowledge, or imminently dangerous acts.",
+    "keywords": [
+      "definition",
+      "murder",
+      "Section 300",
+      "culpable homicide",
+      "IPC"
+    ],
+    "confidence": 0.95,
     "section": "300",
-    "confidence": 0.95
-  },
-  {
-    "id": "ipc-302",
-    "type": "statute",
     "topic": [
       "IPC",
       "Attempt to Murder"
     ],
     "source_file": "Attempt_to_murder.json",
+    "id": "ipc-300-part0",
+    "content": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or if it is sufficient in the ordinary course of nature to cause death, or if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid."
+  },
+  {
+    "type": "statute",
+    "title": "Section 302 IPC - Punishment for Murder",
+    "summary": "Section 302 IPC prescribes punishment for murder: death penalty or life imprisonment with fine.",
+    "keywords": [
+      "Section 302",
+      "punishment",
+      "murder",
+      "IPC"
+    ],
+    "confidence": 0.95,
     "section": "302",
-    "confidence": 0.95
-  },
-  {
-    "id": "ipc-308",
-    "type": "statute",
     "topic": [
       "IPC",
       "Attempt to Murder"
     ],
     "source_file": "Attempt_to_murder.json",
+    "id": "ipc-302-part0",
+    "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine."
+  },
+  {
+    "type": "statute",
+    "title": "Section 308 IPC - Attempt to Commit Culpable Homicide",
+    "summary": "Section 308 IPC punishes attempts to commit culpable homicide not amounting to murder; lesser threshold than Section 307 IPC.",
+    "keywords": [
+      "Section 308",
+      "culpable homicide",
+      "attempt",
+      "IPC"
+    ],
+    "confidence": 0.95,
     "section": "308",
-    "confidence": 0.95
-  },
-  {
-    "id": "crpc-cognizable",
-    "type": "procedure",
-    "topic": [
-      "CrPC",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "crpc-bailability",
-    "type": "procedure",
-    "topic": [
-      "CrPC",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "crpc-trial",
-    "type": "procedure",
-    "topic": [
-      "CrPC",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "evidence-medical",
-    "type": "evidence",
-    "topic": [
-      "Evidence Act",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "evidence-corroboration",
-    "type": "evidence",
-    "topic": [
-      "Evidence Act",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "evidence-confessions",
-    "type": "evidence",
-    "topic": [
-      "Evidence Act",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "extra-definition",
-    "type": "doctrinal",
-    "topic": [
-      "Doctrine",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "extra-distinction",
-    "type": "doctrinal",
-    "topic": [
-      "Doctrine",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "extra-mensrea",
-    "type": "doctrinal",
-    "topic": [
-      "Doctrine",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "precedent-dileep",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-jayanth",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-prakash",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-307-1",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-2",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-3",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-4",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-5",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-6",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-7",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-8",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-9",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-10",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-11",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-12",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-13",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-14",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-15",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-16",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-17",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-18",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "qa-307-19",
-    "type": "qa",
-    "topic": [
-      "Attempt to Murder"
-    ],
-    "source_file": "Attempt_to_murder.json",
-    "confidence": 0.85
-  },
-  {
-    "id": "ipc-120b",
-    "type": "statute",
     "topic": [
       "IPC",
-      "Criminal Conspiracy"
+      "Attempt to Murder"
     ],
-    "source_file": "Criminal_Conspiracy.json",
+    "source_file": "Attempt_to_murder.json",
+    "id": "ipc-308-part0",
+    "content": "Whoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
+  },
+  {
+    "type": "procedure",
+    "title": "Nature of Offence - Cognizable",
+    "summary": "Cognizable offence: police can act directly without magistrate approval.",
+    "keywords": [
+      "procedure",
+      "trial",
+      "IPC 307",
+      "cognizable",
+      "CrPC",
+      "attempt to murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "CrPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "crpc-cognizable-part0",
+    "content": "Section 307 IPC is classified as a cognizable offence under CrPC. Police may register FIR, investigate, and arrest without prior approval from a Magistrate."
+  },
+  {
+    "type": "procedure",
+    "title": "Bailability - Non-bailable",
+    "summary": "Non-bailable: bail is discretionary, not a right.",
+    "keywords": [
+      "procedure",
+      "bailability",
+      "IPC 307",
+      "CrPC",
+      "attempt to murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "CrPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "crpc-bailability-part0",
+    "content": "Section 307 IPC is a non-bailable offence. Accused has no absolute right to bail; bail is at the discretion of the court."
+  },
+  {
+    "type": "procedure",
+    "title": "Trial Jurisdiction - Court of Session",
+    "summary": "Triable only by Court of Session.",
+    "keywords": [
+      "procedure",
+      "trial",
+      "sessions court",
+      "IPC 307",
+      "attempt to murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "CrPC",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "crpc-trial-part0",
+    "content": "The offence is triable exclusively by a Court of Session given its gravity. Magistrate may take cognizance, but trial is committed to the Court of Session."
+  },
+  {
+    "type": "evidence",
+    "title": "Medical Reports & Expert Testimony",
+    "summary": "Medical expert evidence helps prove seriousness of injuries and intention.",
+    "keywords": [
+      "evidence",
+      "medical",
+      "expert testimony",
+      "IPC 307",
+      "attempt to murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "Evidence Act",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "evidence-medical-part0",
+    "content": "Medical officers’ reports on injuries, weapon impact, and causation are admissible as expert evidence. Courts rely on doctors to establish whether the injuries inflicted could have been fatal."
+  },
+  {
+    "type": "evidence",
+    "title": "Corroboration of Witness Testimony",
+    "summary": "Eyewitness testimony must be corroborated.",
+    "keywords": [
+      "evidence",
+      "witness",
+      "corroboration",
+      "IPC 307",
+      "attempt to murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "Evidence Act",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "evidence-corroboration-part0",
+    "content": "Eyewitness accounts are strengthened when supported by medical or forensic evidence. Corroboration is essential in serious cases."
+  },
+  {
+    "type": "evidence",
+    "title": "Confessions",
+    "summary": "Confessions admissible only if voluntary and properly recorded before magistrate.",
+    "keywords": [
+      "evidence",
+      "confession",
+      "admissibility",
+      "IPC 307",
+      "attempt to murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "Evidence Act",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "evidence-confessions-part0",
+    "content": "Confessions must be voluntary and not induced by threat or promise. Confessions to police are inadmissible unless made before a Magistrate."
+  },
+  {
+    "type": "doctrinal",
+    "title": "Definition & Ingredients",
+    "summary": "",
+    "keywords": [
+      "doctrine",
+      "actus reus",
+      "mens rea",
+      "attempt to murder",
+      "IPC 307"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "Doctrine",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "extra-definition-part0",
+    "content": "Attempt to murder involves an act with intention or knowledge that, if death had resulted, it would amount to murder. Ingredients: (i) act by accused; (ii) intention/knowledge; (iii) proximate step toward death."
+  },
+  {
+    "type": "doctrinal",
+    "title": "Distinction with Related Offences",
+    "summary": "",
+    "keywords": [
+      "doctrine",
+      "distinction",
+      "ipc 307",
+      "ipc 302",
+      "ipc 308",
+      "culpable homicide",
+      "attempt to murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "Doctrine",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "extra-distinction-part0",
+    "content": "Section 307 vs Section 302: attempt vs completed murder. Section 307 vs Section 308: different thresholds of intention. Grievous hurt may also attract Section 307 if intent to kill is proven."
+  },
+  {
+    "type": "doctrinal",
+    "title": "Mens Rea & Actus Reus",
+    "summary": "",
+    "keywords": [
+      "doctrine",
+      "actus reus",
+      "mens rea",
+      "intention",
+      "ipc 307",
+      "attempt to murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
+    "topic": [
+      "Doctrine",
+      "Attempt to Murder"
+    ],
+    "source_file": "Attempt_to_murder.json",
+    "id": "extra-mensrea-part0",
+    "content": "Courts consider nature of injury, weapon used, body part targeted, motive, and circumstances to infer intention (mens rea). Actus reus requires a proximate overt act toward causing death."
+  },
+  {
+    "type": "statute",
+    "title": "Section 120B IPC - Punishment for Criminal Conspiracy",
+    "summary": "Defines punishment for conspiracy to commit serious offences.",
+    "keywords": [
+      "criminal conspiracy",
+      "section 120B",
+      "punishment",
+      "IPC"
+    ],
+    "confidence": 0.95,
     "section": "120B",
-    "confidence": 0.95
+    "topic": [
+      "IPC",
+      "Criminal Conspiracy"
+    ],
+    "source_file": "Criminal_Conspiracy.json",
+    "id": "ipc-120b-part0",
+    "content": "Whoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life, or rigorous imprisonment for a term of two years or upwards, shall be punished in the same manner as if he had abetted such offence."
   },
   {
-    "id": "procedure-cognizable-120B",
     "type": "procedure",
+    "title": "Nature of Offence",
+    "summary": "Cognizable offence: police can act without magistrate approval.",
+    "keywords": [
+      "procedure",
+      "cognizable",
+      "IPC 120B",
+      "criminal conspiracy"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Criminal Conspiracy"
     ],
     "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.95
+    "id": "procedure-cognizable-120B-part0",
+    "content": "The offence under Section 120B IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval."
   },
   {
-    "id": "procedure-bailability-120B",
     "type": "procedure",
+    "title": "Bailability",
+    "summary": "Non-bailable offence.",
+    "keywords": [
+      "procedure",
+      "bailability",
+      "IPC 120B",
+      "criminal conspiracy"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Criminal Conspiracy"
     ],
     "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.95
+    "id": "procedure-bailability-120B-part0",
+    "content": "Section 120B IPC is non-bailable. Bail is at the discretion of the court, not a right."
   },
   {
-    "id": "procedure-trial-120B",
     "type": "procedure",
+    "title": "Trial Jurisdiction",
+    "summary": "Triable by Court of Session.",
+    "keywords": [
+      "procedure",
+      "trial",
+      "IPC 120B",
+      "court of session",
+      "criminal conspiracy"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Criminal Conspiracy"
     ],
     "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.95
+    "id": "procedure-trial-120B-part0",
+    "content": "Due to seriousness, Section 120B IPC offences are triable by the Court of Session."
   },
   {
-    "id": "evidence-120B-1",
     "type": "evidence",
+    "title": "Witness Testimony",
+    "summary": "Witness testimony with corroboration strengthens prosecution.",
+    "keywords": [
+      "evidence",
+      "witness",
+      "IPC 120B",
+      "corroboration",
+      "criminal conspiracy"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Criminal Conspiracy"
     ],
     "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.95
+    "id": "evidence-120B-1-part0",
+    "content": "Eyewitness accounts and corroboration are essential to establish guilt."
   },
   {
-    "id": "evidence-120B-2",
     "type": "evidence",
+    "title": "Medical & Forensic Evidence",
+    "summary": "Expert medical/forensic reports crucial for proof.",
+    "keywords": [
+      "evidence",
+      "medical",
+      "forensic",
+      "IPC 120B",
+      "criminal conspiracy"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Criminal Conspiracy"
     ],
     "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.95
+    "id": "evidence-120B-2-part0",
+    "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused."
   },
   {
-    "id": "doctrine-120B-mensrea",
     "type": "doctrinal",
+    "title": "Mens Rea & Actus Reus",
+    "summary": "Both mental and physical elements required.",
+    "keywords": [
+      "doctrine",
+      "mens rea",
+      "actus reus",
+      "criminal conspiracy",
+      "IPC 120B"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Doctrine",
       "Criminal Conspiracy"
     ],
     "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.95
+    "id": "doctrine-120B-mensrea-part0",
+    "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability."
   },
   {
-    "id": "precedent-120B-1",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-120B-2",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-120B-3",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-1",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-2",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-3",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-4",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-5",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-6",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-7",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-8",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-9",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-10",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-11",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-12",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-13",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-14",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-15",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-16",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-17",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-18",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-19",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-120B-20",
-    "type": "qa",
-    "topic": [
-      "Criminal Conspiracy"
-    ],
-    "source_file": "Criminal_Conspiracy.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "ipc-299",
     "type": "statute",
-    "topic": [
-      "IPC",
-      "Culpable Homicide"
+    "title": "Section 299 IPC - Culpable Homicide",
+    "summary": "Defines culpable homicide by intention or knowledge causing death.",
+    "keywords": [
+      "culpable homicide",
+      "homicide",
+      "section 299",
+      "IPC 299",
+      "death",
+      "intention",
+      "knowledge"
     ],
-    "source_file": "Culpable_Homicide.json",
+    "confidence": 0.95,
     "section": "299",
-    "confidence": 0.95
-  },
-  {
-    "id": "ipc-300",
-    "type": "statute",
     "topic": [
       "IPC",
       "Culpable Homicide"
     ],
     "source_file": "Culpable_Homicide.json",
+    "id": "ipc-299-part0",
+    "content": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits culpable homicide."
+  },
+  {
+    "type": "statute",
+    "title": "Section 300 IPC - When Culpable Homicide is Murder",
+    "summary": "Defines when culpable homicide amounts to murder.",
+    "keywords": [
+      "murder",
+      "culpable homicide",
+      "section 300",
+      "IPC 300",
+      "intention",
+      "injury"
+    ],
+    "confidence": 0.95,
     "section": "300",
-    "confidence": 0.95
+    "topic": [
+      "IPC",
+      "Culpable Homicide"
+    ],
+    "source_file": "Culpable_Homicide.json",
+    "id": "ipc-300-part0",
+    "content": "Except in cases excepted, culpable homicide is murder if done with intention of causing death or injury likely to cause death."
   },
   {
-    "id": "procedure-cognizable-299/300",
     "type": "procedure",
+    "title": "Nature of Offence",
+    "summary": "Cognizable offence: police can act without magistrate approval.",
+    "keywords": [
+      "procedure",
+      "cognizable",
+      "IPC 299/300",
+      "culpable homicide"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Culpable Homicide"
     ],
     "source_file": "Culpable_Homicide.json",
-    "confidence": 0.95
+    "id": "procedure-cognizable-299/300-part0",
+    "content": "The offence under Section 299/300 IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval."
   },
   {
-    "id": "procedure-bailability-299/300",
     "type": "procedure",
+    "title": "Bailability",
+    "summary": "Non-bailable offence.",
+    "keywords": [
+      "procedure",
+      "bailability",
+      "IPC 299/300",
+      "culpable homicide"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Culpable Homicide"
     ],
     "source_file": "Culpable_Homicide.json",
-    "confidence": 0.95
+    "id": "procedure-bailability-299/300-part0",
+    "content": "Section 299/300 IPC is non-bailable. Bail is at the discretion of the court, not a right."
   },
   {
-    "id": "procedure-trial-299/300",
     "type": "procedure",
+    "title": "Trial Jurisdiction",
+    "summary": "Triable by Court of Session.",
+    "keywords": [
+      "procedure",
+      "trial",
+      "court of session",
+      "IPC 299/300",
+      "culpable homicide"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Culpable Homicide"
     ],
     "source_file": "Culpable_Homicide.json",
-    "confidence": 0.95
+    "id": "procedure-trial-299/300-part0",
+    "content": "Due to seriousness, Section 299/300 IPC offences are triable by the Court of Session."
   },
   {
-    "id": "evidence-299/300-1",
     "type": "evidence",
+    "title": "Witness Testimony",
+    "summary": "Witness testimony with corroboration strengthens prosecution.",
+    "keywords": [
+      "evidence",
+      "witness",
+      "corroboration",
+      "culpable homicide",
+      "IPC 299/300"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Culpable Homicide"
     ],
     "source_file": "Culpable_Homicide.json",
-    "confidence": 0.95
+    "id": "evidence-299/300-1-part0",
+    "content": "Eyewitness accounts and corroboration are essential to establish guilt."
   },
   {
-    "id": "evidence-299/300-2",
     "type": "evidence",
+    "title": "Medical & Forensic Evidence",
+    "summary": "Expert medical/forensic reports crucial for proof.",
+    "keywords": [
+      "evidence",
+      "medical",
+      "forensic",
+      "culpable homicide",
+      "IPC 299/300"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Culpable Homicide"
     ],
     "source_file": "Culpable_Homicide.json",
-    "confidence": 0.95
+    "id": "evidence-299/300-2-part0",
+    "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused."
   },
   {
-    "id": "doctrine-299/300-mensrea",
     "type": "doctrinal",
+    "title": "Mens Rea & Actus Reus",
+    "summary": "Both mental and physical elements required.",
+    "keywords": [
+      "mens rea",
+      "actus reus",
+      "intention",
+      "culpable homicide",
+      "IPC 299/300"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Doctrine",
       "Culpable Homicide"
     ],
     "source_file": "Culpable_Homicide.json",
-    "confidence": 0.95
+    "id": "doctrine-299/300-mensrea-part0",
+    "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability."
   },
   {
-    "id": "precedent-299/300-1",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-299/300-2",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-299/300-3",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-1",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-2",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-3",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-4",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-5",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-6",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-7",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-8",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-9",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-10",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-11",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-12",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-13",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-14",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-15",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-16",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-17",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-18",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-19",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-299/300-20",
-    "type": "qa",
-    "topic": [
-      "Culpable Homicide"
-    ],
-    "source_file": "Culpable_Homicide.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "ipc-499",
     "type": "statute",
-    "topic": [
+    "title": "Section 499 IPC - Defamation",
+    "summary": "Defines defamation and its scope.",
+    "keywords": [
+      "defamation",
+      "reputation",
+      "section 499",
       "IPC",
-      "Defamation"
+      "harm",
+      "statement",
+      "publish"
     ],
-    "source_file": "Defamation.json",
+    "confidence": 0.95,
     "section": "499",
-    "confidence": 0.95
+    "topic": [
+      "IPC",
+      "Defamation"
+    ],
+    "source_file": "Defamation.json",
+    "id": "ipc-499-part0",
+    "content": "Whoever, by words either spoken or intended to be read, or by signs or visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing that such imputation will harm, the reputation of such person, is said to defame that person."
   },
   {
-    "id": "procedure-cognizable-499",
     "type": "procedure",
+    "title": "Nature of Offence",
+    "summary": "Cognizable offence: police can act without magistrate approval.",
+    "keywords": [
+      "procedure",
+      "cognizable",
+      "IPC 499",
+      "defamation",
+      "FIR"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Defamation"
     ],
     "source_file": "Defamation.json",
-    "confidence": 0.95
+    "id": "procedure-cognizable-499-part0",
+    "content": "The offence under Section 499 IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval."
   },
   {
-    "id": "procedure-bailability-499",
     "type": "procedure",
+    "title": "Bailability",
+    "summary": "Non-bailable offence.",
+    "keywords": [
+      "procedure",
+      "bailability",
+      "IPC 499",
+      "defamation",
+      "court"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Defamation"
     ],
     "source_file": "Defamation.json",
-    "confidence": 0.95
+    "id": "procedure-bailability-499-part0",
+    "content": "Section 499 IPC is non-bailable. Bail is at the discretion of the court, not a right."
   },
   {
-    "id": "procedure-trial-499",
     "type": "procedure",
+    "title": "Trial Jurisdiction",
+    "summary": "Triable by Court of Session.",
+    "keywords": [
+      "procedure",
+      "trial",
+      "court of session",
+      "IPC 499",
+      "defamation"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Defamation"
     ],
     "source_file": "Defamation.json",
-    "confidence": 0.95
+    "id": "procedure-trial-499-part0",
+    "content": "Due to seriousness, Section 499 IPC offences are triable by the Court of Session."
   },
   {
-    "id": "evidence-499-1",
     "type": "evidence",
+    "title": "Witness Testimony",
+    "summary": "Witness testimony with corroboration strengthens prosecution.",
+    "keywords": [
+      "evidence",
+      "witness",
+      "corroboration",
+      "defamation",
+      "IPC 499"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Defamation"
     ],
     "source_file": "Defamation.json",
-    "confidence": 0.95
+    "id": "evidence-499-1-part0",
+    "content": "Eyewitness accounts and corroboration are essential to establish guilt."
   },
   {
-    "id": "evidence-499-2",
     "type": "evidence",
+    "title": "Medical & Forensic Evidence",
+    "summary": "Expert medical/forensic reports crucial for proof.",
+    "keywords": [
+      "evidence",
+      "medical",
+      "forensic",
+      "defamation",
+      "IPC 499"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Defamation"
     ],
     "source_file": "Defamation.json",
-    "confidence": 0.95
+    "id": "evidence-499-2-part0",
+    "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused."
   },
   {
-    "id": "doctrine-499-mensrea",
     "type": "doctrinal",
+    "title": "Mens Rea & Actus Reus",
+    "summary": "Both mental and physical elements required.",
+    "keywords": [
+      "doctrine",
+      "mens rea",
+      "actus reus",
+      "intention",
+      "defamation",
+      "IPC 499"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Doctrine",
       "Defamation"
     ],
     "source_file": "Defamation.json",
-    "confidence": 0.95
+    "id": "doctrine-499-mensrea-part0",
+    "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability."
   },
   {
-    "id": "precedent-499-1",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-499-2",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-499-3",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-1",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-2",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-3",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-4",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-5",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-6",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-7",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-8",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-9",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-10",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-11",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-12",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-13",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-14",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-15",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-16",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-17",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-18",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-19",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-499-20",
-    "type": "qa",
-    "topic": [
-      "Defamation"
-    ],
-    "source_file": "Defamation.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "ipc-359",
     "type": "statute",
-    "topic": [
-      "IPC",
-      "Kidnapping",
-      "Abduction"
+    "title": "Section 359 IPC - Kidnapping",
+    "summary": "Defines two types of kidnapping.",
+    "keywords": [
+      "kidnapping",
+      "section 359",
+      "from India",
+      "lawful guardianship",
+      "IPC"
     ],
-    "source_file": "Kidnapping_Abduction.json",
+    "confidence": 0.95,
     "section": "359",
-    "confidence": 0.95
-  },
-  {
-    "id": "ipc-362",
-    "type": "statute",
     "topic": [
       "IPC",
       "Kidnapping",
       "Abduction"
     ],
     "source_file": "Kidnapping_Abduction.json",
+    "id": "ipc-359-part0",
+    "content": "Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship."
+  },
+  {
+    "type": "statute",
+    "title": "Section 362 IPC - Abduction",
+    "summary": "Defines abduction as forceful or deceitful inducement to move.",
+    "keywords": [
+      "abduction",
+      "section 362",
+      "force",
+      "deceit",
+      "IPC"
+    ],
+    "confidence": 0.95,
     "section": "362",
-    "confidence": 0.95
+    "topic": [
+      "IPC",
+      "Kidnapping",
+      "Abduction"
+    ],
+    "source_file": "Kidnapping_Abduction.json",
+    "id": "ipc-362-part0",
+    "content": "Whoever by force compels, or by deceitful means induces any person to go from any place, is said to abduct that person."
   },
   {
-    "id": "procedure-cognizable-359-374",
     "type": "procedure",
+    "title": "Nature of Offence",
+    "summary": "Cognizable offence: police can act without magistrate approval.",
+    "keywords": [
+      "procedure",
+      "cognizable",
+      "IPC 359-374",
+      "FIR",
+      "arrest",
+      "Kidnapping/Abduction"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Kidnapping",
       "Abduction"
     ],
     "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.95
+    "id": "procedure-cognizable-359-374-part0",
+    "content": "The offence under Section 359-374 IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval."
   },
   {
-    "id": "procedure-bailability-359-374",
     "type": "procedure",
+    "title": "Bailability",
+    "summary": "Non-bailable offence.",
+    "keywords": [
+      "procedure",
+      "bailability",
+      "IPC 359-374",
+      "court",
+      "Kidnapping/Abduction"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Kidnapping",
       "Abduction"
     ],
     "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.95
+    "id": "procedure-bailability-359-374-part0",
+    "content": "Section 359-374 IPC is non-bailable. Bail is at the discretion of the court, not a right."
   },
   {
-    "id": "procedure-trial-359-374",
     "type": "procedure",
+    "title": "Trial Jurisdiction",
+    "summary": "Triable by Court of Session.",
+    "keywords": [
+      "procedure",
+      "trial",
+      "court of session",
+      "IPC 359-374",
+      "Kidnapping/Abduction"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Kidnapping",
       "Abduction"
     ],
     "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.95
+    "id": "procedure-trial-359-374-part0",
+    "content": "Due to seriousness, Section 359-374 IPC offences are triable by the Court of Session."
   },
   {
-    "id": "evidence-359-374-1",
     "type": "evidence",
+    "title": "Witness Testimony",
+    "summary": "Witness testimony with corroboration strengthens prosecution.",
+    "keywords": [
+      "evidence",
+      "witness",
+      "corroboration",
+      "Kidnapping/Abduction",
+      "IPC 359-374"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Kidnapping",
       "Abduction"
     ],
     "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.95
+    "id": "evidence-359-374-1-part0",
+    "content": "Eyewitness accounts and corroboration are essential to establish guilt."
   },
   {
-    "id": "evidence-359-374-2",
     "type": "evidence",
+    "title": "Medical & Forensic Evidence",
+    "summary": "Expert medical/forensic reports crucial for proof.",
+    "keywords": [
+      "evidence",
+      "medical",
+      "forensic",
+      "Kidnapping/Abduction",
+      "IPC 359-374"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Kidnapping",
       "Abduction"
     ],
     "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.95
+    "id": "evidence-359-374-2-part0",
+    "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused."
   },
   {
-    "id": "doctrine-359-374-mensrea",
     "type": "doctrinal",
+    "title": "Mens Rea & Actus Reus",
+    "summary": "Both mental and physical elements required.",
+    "keywords": [
+      "doctrine",
+      "mens rea",
+      "actus reus",
+      "Kidnapping/Abduction",
+      "IPC 359-374",
+      "intention"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Doctrine",
       "Kidnapping",
       "Abduction"
     ],
     "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.95
+    "id": "doctrine-359-374-mensrea-part0",
+    "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability."
   },
   {
-    "id": "precedent-359-374-1",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-359-374-2",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-359-374-3",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-1",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-2",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-3",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-4",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-5",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-6",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-7",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-8",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-9",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-10",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-11",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-12",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-13",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-14",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-15",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-16",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-17",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-18",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-19",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-359-374-20",
-    "type": "qa",
-    "topic": [
-      "Kidnapping",
-      "Abduction"
-    ],
-    "source_file": "Kidnapping_Abduction.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "ipc-302",
     "type": "statute",
+    "title": "Section 302 IPC - Punishment for Murder",
+    "summary": "Prescribes punishment for murder: death penalty or life imprisonment with fine.",
+    "keywords": [
+      "murder",
+      "section 302",
+      "punishment",
+      "death penalty",
+      "life imprisonment",
+      "IPC"
+    ],
+    "confidence": 0.98,
+    "section": "302",
     "topic": [
       "IPC",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "section": "302",
-    "confidence": 0.98
+    "id": "ipc-302-part0",
+    "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine."
   },
   {
-    "id": "procedure-302",
     "type": "procedure",
+    "title": "Trial and Bailability",
+    "summary": "Non-bailable, cognizable, tried by Sessions Court.",
+    "keywords": [
+      "procedure",
+      "sessions court",
+      "non-bailable",
+      "cognizable",
+      "trial",
+      "Murder",
+      "IPC 302"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "confidence": 0.95
+    "id": "procedure-302-part0",
+    "content": "Murder is a cognizable, non-bailable offence triable by a Court of Session."
   },
   {
-    "id": "doctrine-302",
     "type": "doctrinal",
+    "title": "Ingredients of Murder",
+    "summary": "Defines mental and physical elements of murder.",
+    "keywords": [
+      "mens rea",
+      "actus reus",
+      "murder",
+      "intention",
+      "knowledge",
+      "ingredients",
+      "IPC 302"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Doctrine",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "confidence": 0.95
+    "id": "doctrine-302-part0",
+    "content": "Murder requires intention or knowledge of likely death and actus reus causing death."
   },
   {
-    "id": "procedure-cognizable-302",
     "type": "procedure",
+    "title": "Nature of Offence",
+    "summary": "Cognizable offence: police can act without magistrate approval.",
+    "keywords": [
+      "procedure",
+      "cognizable",
+      "FIR",
+      "arrest",
+      "IPC 302",
+      "Murder"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "confidence": 0.95
+    "id": "procedure-cognizable-302-part0",
+    "content": "The offence under Section 302 IPC is classified as cognizable, meaning police can register FIR and arrest without prior magistrate approval."
   },
   {
-    "id": "procedure-bailability-302",
     "type": "procedure",
+    "title": "Bailability",
+    "summary": "Non-bailable offence.",
+    "keywords": [
+      "procedure",
+      "bailability",
+      "non-bailable",
+      "Murder",
+      "IPC 302"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "confidence": 0.95
+    "id": "procedure-bailability-302-part0",
+    "content": "Section 302 IPC is non-bailable. Bail is at the discretion of the court, not a right."
   },
   {
-    "id": "procedure-trial-302",
     "type": "procedure",
+    "title": "Trial Jurisdiction",
+    "summary": "Triable by Court of Session.",
+    "keywords": [
+      "procedure",
+      "trial",
+      "court of session",
+      "Murder",
+      "IPC 302"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "CrPC",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "confidence": 0.95
+    "id": "procedure-trial-302-part0",
+    "content": "Due to seriousness, Section 302 IPC offences are triable by the Court of Session."
   },
   {
-    "id": "evidence-302-1",
     "type": "evidence",
+    "title": "Witness Testimony",
+    "summary": "Witness testimony with corroboration strengthens prosecution.",
+    "keywords": [
+      "evidence",
+      "witness",
+      "corroboration",
+      "testimony",
+      "Murder",
+      "IPC 302"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "confidence": 0.95
+    "id": "evidence-302-1-part0",
+    "content": "Eyewitness accounts and corroboration are essential to establish guilt."
   },
   {
-    "id": "evidence-302-2",
     "type": "evidence",
+    "title": "Medical & Forensic Evidence",
+    "summary": "Expert medical/forensic reports crucial for proof.",
+    "keywords": [
+      "evidence",
+      "medical",
+      "forensic",
+      "injury",
+      "cause of death",
+      "Murder",
+      "IPC 302"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Evidence Act",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "confidence": 0.95
+    "id": "evidence-302-2-part0",
+    "content": "Medical reports and forensic analysis establish the nature of injury, cause of death, or identity of accused."
   },
   {
-    "id": "doctrine-302-mensrea",
     "type": "doctrinal",
+    "title": "Mens Rea & Actus Reus",
+    "summary": "Both mental and physical elements required.",
+    "keywords": [
+      "mens rea",
+      "actus reus",
+      "Murder",
+      "IPC 302",
+      "liability"
+    ],
+    "confidence": 0.95,
+    "section": "",
     "topic": [
       "Doctrine",
       "Murder"
     ],
     "source_file": "Murder.json",
-    "confidence": 0.95
-  },
-  {
-    "id": "precedent-302-1",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-302-2",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "precedent-302-3",
-    "type": "precedent",
-    "topic": [
-      "Case Law",
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-1",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-2",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-3",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-4",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-5",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-6",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-7",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-8",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-9",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-10",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-11",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-12",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-13",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-14",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-15",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-16",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-17",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-18",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-19",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
-  },
-  {
-    "id": "qa-302-20",
-    "type": "qa",
-    "topic": [
-      "Murder"
-    ],
-    "source_file": "Murder.json",
-    "confidence": 0.9
+    "id": "doctrine-302-mensrea-part0",
+    "content": "Court assesses intention (mens rea) and the act (actus reus) together to establish liability."
   }
 ]

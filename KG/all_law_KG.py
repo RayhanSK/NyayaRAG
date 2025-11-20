@@ -47,33 +47,3 @@ def keyword_query(G, keyword):
             matches.append((src, data['relation'], tgt))
     return matches
 
-# 4. Demo/test main
-if __name__ == "__main__":
-    print("Building full legal KG...")
-    triplets = get_all_law_triplets()
-    G = build_law_kg(triplets)
-    print(f"Combined graph: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
-
-    # EXAMPLE QUERIES:
-
-    # Query 1: List all properties for Section 302 IPC
-    sec = "Section 302 IPC"
-    print("\n--- All outgoing relations for", sec, "---")
-    for t in query_section_properties(G, sec):
-        print(t)
-
-    # Query 2: Find all 'is_bailable_offence' sections
-    print("\n--- All non-bailable sections ---")
-    for t in query_by_relation(G, "is_bailable_offence"):
-        print(t)
-
-    # Query 3: Find all FAQs (Q&A) touching on "compoundable"
-    print("\n--- FAQs mentioning 'compoundable' ---")
-    for t in keyword_query(G, "compoundable"):
-        print(t)
-
-    # Query 4: Get all case law precedents for "Section 307 IPC"
-    print("\n--- Precedents for Section 307 IPC ---")
-    for src, tgt, data in G.edges(data=True):
-        if tgt == "Section 307 IPC" and data['relation'] == "interpreted_section":
-            print(src, ":", data['relation'])
